@@ -42,6 +42,7 @@
 * [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 
 ## Go
+* [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
 * [checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
 * [carve](https://github.com/aaparella/carve) - Go implementation of Seam Carving algorithm.
 * [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
@@ -75,7 +76,7 @@
 * [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 * [qor-example](https://github.com/qor/qor-example) - An example application showcasing the QOR SDK
 * [redigo](https://github.com/garyburd/redigo) - Go client for Redis
-* [pholcus](https://github.com/henrylee2cn/pholcus) - [爬虫软件 (golang)] Pholcus（幽灵蛛）是一款纯Go语言编写的高并发、分布式、重量级爬虫软件，支持单机、服务端、客户端三种运行模式，拥有Web、GUI、命令行三种操作界面；规则简单灵活、批量任务并发、输出方式丰富（mysql/mongodb/csv/excel等）、有大量Demo共享；同时她还支持横纵向两种抓取模式，支持模拟登录和任务暂停、取消等一系列高级功能。
+* [pholcus](https://github.com/henrylee2cn/pholcus) - [Crawler for Golang] Pholcus is a distributed, high concurrency and powerful web crawler software.
 * [go_spider](https://github.com/hu17889/go_spider) - [爬虫框架 (golang)] An awesome Go concurrent Crawler(spider) framework. The crawler is flexible and modular. It can be expanded to an Individualized crawler easily or you can use the default crawl components only.
 * [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 * [qbs](https://github.com/coocood/qbs) - QBS stands for Query By Struct. A Go ORM.
@@ -105,6 +106,9 @@
 * [spring-data-elasticsearch-sample](https://github.com/herotl2005/spring-data-elasticsearch-sample) - spring boot elasticsearch sample
 
 ## Java
+* [javassist](https://github.com/jboss-javassist/javassist) - Java bytecode engineering toolkit
+* [HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid high-performance JDBC connection pool at last.
+* [packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X
 * [google-api-java-client](https://github.com/google/google-api-java-client) - Google APIs Client Library for Java
 * [spark](https://github.com/perwendel/spark) - A Sinatra inspired framework for java
 * [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
@@ -158,7 +162,7 @@
 * [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 * [angular-meteor](https://github.com/Urigo/angular-meteor) - Combining the simplicity and power of AngularJS and Meteor
 * [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @AngularClass
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 * [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Template Editor. Next generation tool for building templates without coding
 * [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 * [generator-jhipster-react](https://github.com/hipster-labs/generator-jhipster-react) - A Jhipster based generator to create react + spring boot application
@@ -179,6 +183,7 @@
 * [bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
 
 ## Lua
+* [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 * [go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
 
 ## Objective-C
@@ -191,10 +196,8 @@
 * [cli-tools](https://github.com/Voyga/cli-tools) - :trumpet: CLI tools that enhance productivity
 * [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 2 workflows that will rock your world
 * [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) - RxJava resources
-* [angular2-education](https://github.com/feel7iii/angular2-education) - A curated list of helpful material to get started with education on Angular 2
 * [reactor](https://github.com/reactor/reactor) - A set of foundational libraries for building reactive cloud-ready applications on the JVM.
 * [angular2-ama-cn](https://github.com/kittencup/angular2-ama-cn) - angular2 随便问
-* [blog](https://github.com/gf-rd/blog) - 广发证券技术博客，文章请见issue
 * [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) - 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
 * [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) - Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
 * [docker-shadowsocks](https://github.com/TommyLau/docker-shadowsocks) - Shadowsocks in Docker
@@ -210,7 +213,7 @@
 
 ## Python
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-* [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
 ## Ruby
 * [blog](https://github.com/enml/blog) - a github pages blog
