@@ -37,6 +37,7 @@
 * [papyros](https://github.com/papyros/papyros) - General issue tracking and wikis for Papyros
 
 ## CSS
+* [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
 * [mobistore](https://github.com/aaronchen2k/mobistore) - eCommerce Fashion Store
 * [google-java-styleguide](https://github.com/codeset/google-java-styleguide) - Google Java代码风格规范 (中文版)
 * [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
@@ -57,11 +58,11 @@
 * [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
 * [qml](https://github.com/go-qml/qml) - QML support for the Go language
 * [backend](https://github.com/limetext/backend) - Backend for Lime
-* [lantern](https://github.com/getlantern/lantern) - :zap: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
+* [lantern](https://github.com/getlantern/lantern) - :izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
 * [logrus](https://github.com/gogap/logrus) - Obsolete, Please refer to gogap/logrus_mate
 * [validator](https://github.com/gin-gonic/validator) - Package validator implements struct field validations
 * [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
-* [concurrent-map](https://github.com/streamrail/concurrent-map) - a thread-safe concurrent map for go
+* [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 * [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
 * [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth.
 * [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
@@ -73,7 +74,6 @@
 * [gopm](https://github.com/gpmgo/gopm) - Go Package Manager (gopm) is a package manager and build tool for Go.
 * [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) is a painless self-hosted Git service.
 * [goim](https://github.com/Terry-Mao/goim) - goim
-* [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 * [qor-example](https://github.com/qor/qor-example) - An example application showcasing the QOR SDK
 * [redigo](https://github.com/garyburd/redigo) - Go client for Redis
 * [pholcus](https://github.com/henrylee2cn/pholcus) - [Crawler for Golang] Pholcus is a distributed, high concurrency and powerful web crawler software.
@@ -102,10 +102,12 @@
 
 ## HTML
 * [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
+* [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 * [php-framework-benchmark](https://github.com/kenjis/php-framework-benchmark) - PHP Framework Benchmark
-* [spring-data-elasticsearch-sample](https://github.com/herotl2005/spring-data-elasticsearch-sample) - spring boot elasticsearch sample
+* [spring-data-elasticsearch-sample](https://github.com/cooleo/spring-data-elasticsearch-sample) - spring boot elasticsearch sample
 
 ## Java
+* [javacpp-presets](https://github.com/bytedeco/javacpp-presets) - The missing bridge between Java and native C++ libraries
 * [javassist](https://github.com/jboss-javassist/javassist) - Java bytecode engineering toolkit
 * [HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid high-performance JDBC connection pool at last.
 * [packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X
@@ -134,7 +136,7 @@
 * [oauth2](https://github.com/yuanhuan2005/oauth2) - Java Spring Security OAuth2 Server
 * [spring-boot-starter-dubbo](https://github.com/wacai/spring-boot-starter-dubbo) - a spring boot starter module for developing microservices with dubbo RPC framework.
 * [spring-boot-samples](https://github.com/netgloo/spring-boot-samples) - Spring Boot samples by Netgloo
-* [oltu-oauth2-example](https://github.com/sxyx2008/oltu-oauth2-example) - 使用Apache Oltu 搭建Oauth2 Server及Client开放授权
+* [oltu-oauth2-example](https://github.com/ameizi/oltu-oauth2-example) - 使用Apache Oltu 搭建Oauth2 Server及Client开放授权
 * [tapestry5](https://github.com/apache/tapestry5) - Mirror of Apache Tapestry 5
 * [go-lang-idea-plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) - Google Go language IDE built using the IntelliJ Platform
 * [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
@@ -155,17 +157,17 @@
 * [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
 * [photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
 * [docker-registry2-ui](https://github.com/wangxufire/docker-registry2-ui) - docker-registry2-ui
-* [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
 * [angular2-authentication-sample](https://github.com/auth0-blog/angular2-authentication-sample) - This is a sample that shows how to add authentication to an Angular 2 (ng2) app
 * [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 * [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.
 * [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
-* [angular-meteor](https://github.com/Urigo/angular-meteor) - Combining the simplicity and power of AngularJS and Meteor
+* [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 * [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - :tada: An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 * [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Template Editor. Next generation tool for building templates without coding
 * [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 * [generator-jhipster-react](https://github.com/hipster-labs/generator-jhipster-react) - A Jhipster based generator to create react + spring boot application
+* [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 * [cat](https://github.com/dianping/cat) - Central Application Tracking
 * [react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
 * [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -194,9 +196,9 @@
 * [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 * [angular2-learning-cn](https://github.com/kittencup/angular2-learning-cn) - Angular 2 中文资料汇总(文章，视频，教程)
 * [cli-tools](https://github.com/Voyga/cli-tools) - :trumpet: CLI tools that enhance productivity
-* [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 2 workflows that will rock your world
+* [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 workflows that will rock your world
 * [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) - RxJava resources
-* [reactor](https://github.com/reactor/reactor) - A set of foundational libraries for building reactive cloud-ready applications on the JVM.
+* [reactor](https://github.com/reactor/reactor) - Legacy Reactor history (2.x, 1.x)
 * [angular2-ama-cn](https://github.com/kittencup/angular2-ama-cn) - angular2 随便问
 * [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) - 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
 * [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) - Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
@@ -212,20 +214,22 @@
 * [bpcs_uploader](https://github.com/oott123/bpcs_uploader) - 百度pcs上传脚本
 
 ## Python
+* [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
+* [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-* [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
 
 ## Ruby
 * [blog](https://github.com/enml/blog) - a github pages blog
 
 ## Scala
-* [linkerd](https://github.com/BuoyantIO/linkerd) - A dynamic linker for microservices.
+* [linkerd](https://github.com/BuoyantIO/linkerd) - Resilient service mesh for cloud native apps
 
 ## Shell
 * [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 * [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 * [elasticsearch](https://github.com/tutumcloud/elasticsearch) - Simple docker image to run an Elasticsearch server
 * [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 * [mongodb](https://github.com/tutumcloud/mongodb) - Docker image to run an out-of-the-box MongoDB server
@@ -236,11 +240,10 @@
 * [angular2-github-manage](https://github.com/kittencup/angular2-github-manage) - github manage for angular 2 app
 * [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
-* [ionic](https://github.com/driftyco/ionic) - Advanced HTML5 mobile development framework and SDK. Build incredible mobile apps with web technologies you already know and love. Best friends with AngularJS.
+* [ionic](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything 🎉
 * [angular](https://github.com/angular/angular) - 
 * [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter
 * [angular2-playground](https://github.com/xie-qianyue/angular2-playground) - 
-* [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 
 ## VimL
 * [autoconfig-mac-vimrc](https://github.com/barretlee/autoconfig-mac-vimrc) - autoconfig mac vimrc with bundle
