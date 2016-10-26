@@ -151,6 +151,7 @@
 * [m2eclipse-subclipse](https://github.com/tesla/m2eclipse-subclipse) - Maven SCM Handler for Subclipse
 
 ## JavaScript
+* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 * [resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 * [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + AngularJS projects in seconds!
 * [code-to-image](https://github.com/akira-cn/code-to-image) - Convert blocks of code to a highlighted jpeg base64 image.
@@ -195,7 +196,6 @@
 ## Others
 * [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 * [angular2-learning-cn](https://github.com/kittencup/angular2-learning-cn) - Angular 2 中文资料汇总(文章，视频，教程)
-* [cli-tools](https://github.com/Voyga/cli-tools) - :trumpet: CLI tools that enhance productivity
 * [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 workflows that will rock your world
 * [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) - RxJava resources
 * [reactor](https://github.com/reactor/reactor) - Legacy Reactor history (2.x, 1.x)
