@@ -64,12 +64,12 @@
 * [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 * [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 * [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-* [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth.
+* [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. Its Incomparable Features is what most Enterprises will find most Attractive.
 * [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 * [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 * [neo](https://github.com/ivpusic/neo) - Go Web Framework
 * [godep](https://github.com/tools/godep) - dependency tool for go
-* [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - OAuth2 server written in Golang.
+* [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server) - A standalone, specification-compliant,  OAuth2 server written in Golang.
 * [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 * [gopm](https://github.com/gpmgo/gopm) - Go Package Manager (gopm) is a package manager and build tool for Go.
 * [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) is a painless self-hosted Git service.
@@ -151,6 +151,8 @@
 * [m2eclipse-subclipse](https://github.com/tesla/m2eclipse-subclipse) - Maven SCM Handler for Subclipse
 
 ## JavaScript
+* [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
+* [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for MAC OS X
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 * [resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 * [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + AngularJS projects in seconds!
@@ -162,7 +164,6 @@
 * [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 * [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.
 * [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
-* [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 * [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
 * [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - :tada: An Angular 2 Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes), Material Design, Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 * [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Template Editor. Next generation tool for building templates without coding
@@ -217,7 +218,7 @@
 * [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
 * [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
 
 ## Ruby
 * [blog](https://github.com/enml/blog) - a github pages blog
@@ -242,6 +243,7 @@
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
 * [ionic](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything 🎉
 * [angular](https://github.com/angular/angular) - 
+* [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 * [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter
 * [angular2-playground](https://github.com/xie-qianyue/angular2-playground) - 
 
