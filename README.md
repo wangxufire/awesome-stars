@@ -30,6 +30,7 @@
 * [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
 
 ## C++
+* [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 * [thrift](https://github.com/apache/thrift) - Mirror of Apache Thrift
 
