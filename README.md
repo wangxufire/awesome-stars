@@ -10,6 +10,7 @@
     - [C++](#c++)
     - [CMake](#cmake)
     - [CSS](#css)
+    - [CoffeeScript](#coffeescript)
     - [Go](#go)
     - [Groovy](#groovy)
     - [HTML](#html)
@@ -43,7 +44,11 @@
 * [google-java-styleguide](https://github.com/codeset/google-java-styleguide) - Google Java代码风格规范 (中文版)
 * [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 
+## CoffeeScript
+* [asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+
 ## Go
+* [hprose-golang](https://github.com/hprose/hprose-golang) - Hprose 2.0 for Golang
 * [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
 * [checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
 * [carve](https://github.com/aaparella/carve) - Go implementation of Seam Carving algorithm.
@@ -58,7 +63,7 @@
 * [go-config](https://github.com/zpatrick/go-config) - Robust application configuration made simple
 * [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
 * [qml](https://github.com/go-qml/qml) - QML support for the Go language
-* [backend](https://github.com/limetext/backend) - Backend for Lime
+* [backend](https://github.com/limetext/backend) - Backend for LimeText
 * [lantern](https://github.com/getlantern/lantern) - :izakaya_lantern: Open Internet for everyone. Lantern is a free application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including domain fronting, p2p, and pluggable transports.
 * [logrus](https://github.com/gogap/logrus) - Obsolete, Please refer to gogap/logrus_mate
 * [validator](https://github.com/gin-gonic/validator) - Package validator implements struct field validations
@@ -102,6 +107,8 @@
 * [lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ## HTML
+* [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
+* [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 * [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
 * [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 * [php-framework-benchmark](https://github.com/kenjis/php-framework-benchmark) - PHP Framework Benchmark
@@ -131,7 +138,6 @@
 * [ImageProject](https://github.com/jlkm2010/ImageProject) - Springboot SpringSecurity AngularJS gradle 又拍云
 * [dubbo](https://github.com/linux-china/dubbo) - Dubbo is a distributed service framework enpowers applications with service import/export capability with high performance RPC.
 * [spring-boot-dubbo](https://github.com/linux-china/spring-boot-dubbo) - Spring Boot with Dubbo support
-* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [service-registration-and-discovery](https://github.com/joshlong/service-registration-and-discovery) - A repository for a blog on how Spring Cloud promotes resilient service-to-service calls through service registries and service discovery
 * [Douban-Java-SDK-OAuth2](https://github.com/UglyTroLL/Douban-Java-SDK-OAuth2) - Douban Java SDK OAuth2
 * [oauth2](https://github.com/yuanhuan2005/oauth2) - Java Spring Security OAuth2 Server
@@ -147,11 +153,14 @@
 * [dubbox](https://github.com/dangdangdotcom/dubbox) - Dubbox now means Dubbo eXtensions, and it adds features like RESTful remoting, Kyro/FST serialization, etc to the Dubbo service framework.
 * [fastjson](https://github.com/alibaba/fastjson) - :bullettrain_side: A fast JSON parser/generator for Java
 * [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
-* [druid](https://github.com/alibaba/druid) - 为监控而生的数据库连接池！
+* [druid](https://github.com/alibaba/druid) - :hotsprings: 为监控而生的数据库连接池！
 * [uncode-schedule](https://github.com/uncodecn/uncode-schedule) - 基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。
 * [m2eclipse-subclipse](https://github.com/tesla/m2eclipse-subclipse) - Maven SCM Handler for Subclipse
 
 ## JavaScript
+* [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+* [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
+* [node-appdmg](https://github.com/LinusU/node-appdmg) - Generate your app dmgs
 * [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 * [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for MAC OS X
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
@@ -173,6 +182,7 @@
 * [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 * [cat](https://github.com/dianping/cat) - Central Application Tracking
 * [react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
+* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10
 * [community](https://github.com/LittleDouBi/community) - 问答社区
@@ -239,6 +249,8 @@
 * [gnome-catgen](https://github.com/prurigro/gnome-catgen) - A Gnome 3 application-overview folder configuration tool
 
 ## TypeScript
+* [material2](https://github.com/angular/material2) - Material Design components for Angular 2
+* [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 * [angular2-github-manage](https://github.com/kittencup/angular2-github-manage) - github manage for angular 2 app
 * [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
