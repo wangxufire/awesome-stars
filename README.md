@@ -17,6 +17,7 @@
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Lua](#lua)
+    - [M](#m)
     - [Objective-C](#objective-c)
     - [Others](#others)
     - [PHP](#php)
@@ -24,10 +25,12 @@
     - [Ruby](#ruby)
     - [Scala](#scala)
     - [Shell](#shell)
+    - [Swift](#swift)
     - [TypeScript](#typescript)
     - [VimL](#viml)
 
 ## C
+* [ShadowsocksRDroid](https://github.com/KagayamaKaede/ShadowsocksRDroid) - A ShadowsocksR client for Android4.0+.Compatible Shadowsocks protocol and support some ShadowsocksR function.
 * [netdata](https://github.com/firehol/netdata) - Real-time performance monitoring, done right!
 
 ## C++
@@ -136,7 +139,6 @@
 * [sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc) - A JDBC driver for shard databases and tables
 * [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) - Spring Security and Angular JS:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.
 * [ImageProject](https://github.com/jlkm2010/ImageProject) - Springboot SpringSecurity AngularJS gradle 又拍云
-* [dubbo](https://github.com/linux-china/dubbo) - Dubbo is a distributed service framework enpowers applications with service import/export capability with high performance RPC.
 * [spring-boot-dubbo](https://github.com/linux-china/spring-boot-dubbo) - Spring Boot with Dubbo support
 * [service-registration-and-discovery](https://github.com/joshlong/service-registration-and-discovery) - A repository for a blog on how Spring Cloud promotes resilient service-to-service calls through service registries and service discovery
 * [Douban-Java-SDK-OAuth2](https://github.com/UglyTroLL/Douban-Java-SDK-OAuth2) - Douban Java SDK OAuth2
@@ -158,6 +160,9 @@
 * [m2eclipse-subclipse](https://github.com/tesla/m2eclipse-subclipse) - Maven SCM Handler for Subclipse
 
 ## JavaScript
+* [ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
+* [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
+* [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。
 * [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 * [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
 * [node-appdmg](https://github.com/LinusU/node-appdmg) - Generate your app dmgs
@@ -201,7 +206,11 @@
 * [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 * [go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
 
+## M
+* [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
 ## Objective-C
+* [iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.
 * [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed according to regulations.
 * [DanDanPlayForMac](https://github.com/sunsx9316/DanDanPlayForMac) - 弹弹play mac版
 
@@ -247,6 +256,9 @@
 * [mongodb](https://github.com/tutumcloud/mongodb) - Docker image to run an out-of-the-box MongoDB server
 * [rabbitmq](https://github.com/docker-library/rabbitmq) - Docker Official Image packaging for RabbitMQ
 * [gnome-catgen](https://github.com/prurigro/gnome-catgen) - A Gnome 3 application-overview folder configuration tool
+
+## Swift
+* [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 
 ## TypeScript
 * [material2](https://github.com/angular/material2) - Material Design components for Angular 2
