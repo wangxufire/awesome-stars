@@ -210,6 +210,7 @@
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
 ## Objective-C
+* [squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 * [iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.
 * [shadowsocks-iOS](https://github.com/shadowsocks/shadowsocks-iOS) - Removed according to regulations.
 * [DanDanPlayForMac](https://github.com/sunsx9316/DanDanPlayForMac) - 弹弹play mac版
