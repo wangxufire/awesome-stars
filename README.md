@@ -73,7 +73,7 @@
 * [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 * [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 * [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-* [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. Its Incomparable Features is what most Enterprises will find most Attractive.
+* [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth.
 * [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 * [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 * [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -239,7 +239,7 @@
 * [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
 * [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
+* [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client — user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
 
 ## Ruby
 * [blog](https://github.com/enml/blog) - a github pages blog
