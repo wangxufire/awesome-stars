@@ -22,6 +22,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Scala](#scala)
@@ -45,6 +46,7 @@
 
 ## C++ 
 
+- [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
@@ -62,9 +64,11 @@
 
 ## Go 
 
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
 - [google-cloud-go](https://github.com/GoogleCloudPlatform/google-cloud-go) - Google Cloud APIs Go Client Library
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [hprose-golang](https://github.com/hprose/hprose-golang) - Hprose 2.0 for Golang
+- [hprose-golang](https://github.com/hprose/hprose-golang) - Hprose is a cross-language RPC. This project is Hprose 2.0 for Golang.
 - [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
 - [checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages
 - [carve](https://github.com/aaparella/carve) - Go implementation of Seam Carving algorithm.
@@ -127,7 +131,7 @@
 ## HTML 
 
 - [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects"
-- [awesome-angular2](https://github.com/AngularClass/awesome-angular2) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
+- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
@@ -135,6 +139,8 @@
 
 ## Java 
 
+- [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的标准RESTful风格的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持超时自动重连，支持cookie的持久化和自动管理，支持五种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能
+- [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ.
 - [google-java-format](https://github.com/google/google-java-format) - 
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
 - [mybatis-generator-gui](https://github.com/astarring/mybatis-generator-gui) - mybatis-generator界面工具，让你生成代码更简单更快捷
@@ -183,6 +189,8 @@
 
 ## JavaScript 
 
+- [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
+- [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for AngularJS with an Express server
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -207,7 +215,7 @@
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
-- [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
+- [angular-webpack](https://github.com/preboot/angular-webpack) - A complete, yet simple, starter for Angular v2+ using webpack
 - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - :tada: An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
@@ -256,6 +264,7 @@
 
 ## Others 
 
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
@@ -278,8 +287,13 @@
 - [Hateoas](https://github.com/willdurand/Hateoas) - A PHP library to support implementing representations for HATEOAS REST web services.
 - [bpcs_uploader](https://github.com/oott123/bpcs_uploader) - 百度pcs上传脚本
 
+## PowerShell 
+
+- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
+
 ## Python 
 
+- [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 - [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
 - [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -291,13 +305,14 @@
 
 ## Scala 
 
+- [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps
 
 ## Shell 
 
+- [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
-- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [elasticsearch](https://github.com/tutumcloud/elasticsearch) - Simple docker image to run an Elasticsearch server
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
@@ -314,6 +329,7 @@
 
 ## TypeScript 
 
+- [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
 - [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
