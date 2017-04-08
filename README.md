@@ -64,6 +64,14 @@
 
 ## Go 
 
+- [go-bindata](https://github.com/jteeuwen/go-bindata) - A small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
+- [properties](https://github.com/magiconair/properties) - Java properties scanner for Go
+- [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
+- [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks
+- [lint](https://github.com/golang/lint) - This is a linter for Go source code.
+- [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [testify](https://github.com/stretchr/testify) - A sacred extension to the standard go testing package
+- [gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
 - [google-cloud-go](https://github.com/GoogleCloudPlatform/google-cloud-go) - Google Cloud APIs Go Client Library
@@ -76,11 +84,9 @@
 - [queue](https://github.com/go-on/queue) - Streamlined error handling and piping through a queue of go functions
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [lint](https://github.com/golang/lint) - This is a linter for Go source code.
 - [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [goconfig](https://github.com/Unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
-- [go-config](https://github.com/zpatrick/go-config) - Robust application configuration made simple
 - [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
 - [qml](https://github.com/go-qml/qml) - QML support for the Go language
 - [backend](https://github.com/limetext/backend) - Backend for LimeText
@@ -120,7 +126,6 @@
 - [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 - [gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 - [gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
-- [nwui](https://github.com/go-nwui/nwui) - node-webkit UI for Go
 - [go-json-rest](https://github.com/ant0ine/go-json-rest) - A quick and easy way to setup a RESTful JSON API
 
 ## Groovy 
@@ -140,7 +145,7 @@
 ## Java 
 
 - [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的标准RESTful风格的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持超时自动重连，支持cookie的持久化和自动管理，支持五种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能
-- [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ.
+- [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ. https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter
 - [google-java-format](https://github.com/google/google-java-format) - 
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
 - [mybatis-generator-gui](https://github.com/astarring/mybatis-generator-gui) - mybatis-generator界面工具，让你生成代码更简单更快捷
@@ -314,9 +319,9 @@
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [elasticsearch](https://github.com/tutumcloud/elasticsearch) - Simple docker image to run an Elasticsearch server
+- [elasticsearch](https://github.com/tutumcloud/elasticsearch) - [Deprecated] Simple docker image to run an Elasticsearch server
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
-- [mongodb](https://github.com/tutumcloud/mongodb) - Docker image to run an out-of-the-box MongoDB server
+- [mongodb](https://github.com/tutumcloud/mongodb) - [Deprecated] Docker image to run an out-of-the-box MongoDB server
 - [rabbitmq](https://github.com/docker-library/rabbitmq) - Docker Official Image packaging for RabbitMQ
 - [gnome-catgen](https://github.com/prurigro/gnome-catgen) - A Gnome 3 application-overview folder configuration tool
 
