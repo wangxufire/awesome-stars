@@ -64,6 +64,8 @@
 
 ## Go 
 
+- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+- [cron](https://github.com/robfig/cron) - a cron library for go
 - [go-bindata](https://github.com/jteeuwen/go-bindata) - A small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
 - [properties](https://github.com/magiconair/properties) - Java properties scanner for Go
 - [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
