@@ -16,6 +16,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
+  - [Logos](#logos)
   - [Lua](#lua)
   - [M](#m)
   - [Makefile](#makefile)
@@ -34,6 +35,9 @@
 
 ## C 
 
+- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
+- [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Video player based on MPlayer/mplayer2
 - [ShadowsocksRDroid](https://github.com/KagayamaKaede/ShadowsocksRDroid) - A ShadowsocksR client for Android4.0+.Compatible Shadowsocks protocol and support some ShadowsocksR function.
@@ -41,11 +45,12 @@
 
 ## C# # 
 
-- [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
+- [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub is an iOS application written using Xamarin
 - [BaiduPanDownloadWinform](https://github.com/ResourceHunter/BaiduPanDownloadWinform) - 百度网盘不限速下载工具
 
 ## C++ 
 
+- [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -58,12 +63,24 @@
 
 ## CSS 
 
+- [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [mobistore](https://github.com/aaronchen2k/mobistore) - eCommerce Fashion Store
 - [google-java-styleguide](https://github.com/codeset/google-java-styleguide) - Google Java代码风格规范 (中文版)
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 
 ## Go 
 
+- [go](https://github.com/golang/go) - The Go programming language
+- [hitGox](https://github.com/toby3d/hitGox) - A simple library on Go for work with hitbox API streaming service
+- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+- [google-api-go-client](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go
+- [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
+- [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
+- [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+- [contributors](https://github.com/kelseyhightower/contributors) - Display GitHub contributors for a specific repo.
+- [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [errors](https://github.com/juju/errors) - Common juju errors and functions to annotate errors.  Based on juju/errgo
+- [assertion](https://github.com/maprost/assertion) - lightwight test environment
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [cron](https://github.com/robfig/cron) - a cron library for go
 - [go-bindata](https://github.com/jteeuwen/go-bindata) - A small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
@@ -89,7 +106,7 @@
 - [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [goconfig](https://github.com/Unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
-- [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [qml](https://github.com/go-qml/qml) - QML support for the Go language
 - [backend](https://github.com/limetext/backend) - Backend for LimeText
 - [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
@@ -132,6 +149,7 @@
 
 ## Groovy 
 
+- [shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - Web UI for private docker registry v2
 - [lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
@@ -146,6 +164,7 @@
 
 ## Java 
 
+- [scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 - [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的标准RESTful风格的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持超时自动重连，支持cookie的持久化和自动管理，支持五种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能
 - [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ. https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter
 - [google-java-format](https://github.com/google/google-java-format) - 
@@ -181,7 +200,6 @@
 - [spring-boot-starter-dubbo](https://github.com/wacai/spring-boot-starter-dubbo) - a spring boot starter module for developing microservices with dubbo RPC framework.
 - [spring-boot-samples](https://github.com/netgloo/spring-boot-samples) - Spring Boot samples by Netgloo
 - [oltu-oauth2-example](https://github.com/ameizi/oltu-oauth2-example) - 使用Apache Oltu 搭建Oauth2 Server及Client开放授权
-- [tapestry5](https://github.com/apache/tapestry5) - Mirror of Apache Tapestry 5
 - [go-lang-idea-plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) - Google Go language IDE built using the IntelliJ Platform
 - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [opsu](https://github.com/itdelatrisu/opsu) - opsu! ~ an open-source osu! client
@@ -223,7 +241,7 @@
 - [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [angular-webpack](https://github.com/preboot/angular-webpack) - A complete, yet simple, starter for Angular v2+ using webpack
-- [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - :tada: An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
+- [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 - [generator-jhipster-react](https://github.com/hipster-labs/generator-jhipster-react) - A Jhipster based generator to create react + spring boot application
@@ -246,7 +264,12 @@
 
 ## Kotlin 
 
+- [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
+
+## Logos 
+
+- [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 
 ## Lua 
 
@@ -317,6 +340,7 @@
 
 ## Shell 
 
+- [gimme](https://github.com/travis-ci/gimme) - Install go, yay!
 - [antigen](https://github.com/zsh-users/antigen) - A plugin manager for zsh, inspired by oh-my-zsh and vundle.
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
@@ -329,6 +353,8 @@
 
 ## Swift 
 
+- [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Feel free to contribute!
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop.
 - [Twidere-iOS](https://github.com/TwidereProject/Twidere-iOS) - Twidere for iOS
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
@@ -341,7 +367,7 @@
 - [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
 - [angular2-github-manage](https://github.com/kittencup/angular2-github-manage) - github manage for angular 2 app
-- [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework
+- [ng2-admin](https://github.com/akveo/ng2-admin) - Angular admin dashboard framework
 - [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
 - [ionic](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
