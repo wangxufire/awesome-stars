@@ -70,6 +70,8 @@
 
 ## Go 
 
+- [goxc](https://github.com/laher/goxc) - a build tool for Go, with a focus on cross-compiling, packaging and deployment
+- [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [go](https://github.com/golang/go) - The Go programming language
 - [hitGox](https://github.com/toby3d/hitGox) - A simple library on Go for work with hitbox API streaming service
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
