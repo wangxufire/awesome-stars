@@ -63,6 +63,7 @@
 
 ## CSS 
 
+- [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - The blog theme you may fall in love with, coming to Hexo.
 - [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [mobistore](https://github.com/aaronchen2k/mobistore) - eCommerce Fashion Store
 - [google-java-styleguide](https://github.com/codeset/google-java-styleguide) - Google Java代码风格规范 (中文版)
@@ -70,6 +71,7 @@
 
 ## Go 
 
+- [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Next-generation Shadowsocks in Go
 - [goxc](https://github.com/laher/goxc) - a build tool for Go, with a focus on cross-compiling, packaging and deployment
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [go](https://github.com/golang/go) - The Go programming language
@@ -117,7 +119,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.
+- [iris](https://github.com/kataras/iris) - Fast, cross-platform HTTP/2 Web Framework for Go. Written by a nerd, for nerds.
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -216,6 +218,9 @@
 
 ## JavaScript 
 
+- [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React
+- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
+- [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for AngularJS with an Express server
@@ -243,7 +248,7 @@
 - [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [angular-webpack](https://github.com/preboot/angular-webpack) - A complete, yet simple, starter for Angular v2+ using webpack
-- [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
+- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 - [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 - [generator-jhipster-react](https://github.com/hipster-labs/generator-jhipster-react) - A Jhipster based generator to create react + spring boot application
@@ -364,6 +369,7 @@
 
 ## TypeScript 
 
+- [store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux
 - [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
 - [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
