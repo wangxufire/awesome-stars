@@ -71,11 +71,12 @@
 
 ## Go 
 
+- [glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Next-generation Shadowsocks in Go
 - [goxc](https://github.com/laher/goxc) - a build tool for Go, with a focus on cross-compiling, packaging and deployment
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [go](https://github.com/golang/go) - The Go programming language
-- [hitGox](https://github.com/toby3d/hitGox) - A simple library on Go for work with hitbox API streaming service
+- [go-smashcast](https://github.com/toby3d/go-smashcast) - A simple library on Go for work with smashcast API streaming service
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [google-api-go-client](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go
 - [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
@@ -301,6 +302,7 @@
 
 ## Others 
 
+- [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - 
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
@@ -330,6 +332,8 @@
 
 ## Python 
 
+- [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+- [shadowsocksr](https://github.com/shadowsocksr/shadowsocksr) - Python port of ShadowsocksR
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 - [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
 - [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
@@ -360,6 +364,7 @@
 
 ## Swift 
 
+- [Potatso](https://github.com/haxpor/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
 - [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Feel free to contribute!
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop.
@@ -369,6 +374,8 @@
 
 ## TypeScript 
 
+- [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced) - Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
+- [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux
 - [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
