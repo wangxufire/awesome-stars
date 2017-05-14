@@ -169,6 +169,7 @@
 
 ## Java 
 
+- [My-Wallet-V3-Android](https://github.com/blockchain/My-Wallet-V3-Android) - Blockchain Wallet - Android
 - [scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 - [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的标准RESTful风格的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持超时自动重连，支持cookie的持久化和自动管理，支持五种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能
 - [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ. https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter
@@ -228,7 +229,6 @@
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 - [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
-- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [ShadowsocksX-NG](https://github.com/shadowsocksr/ShadowsocksX-NG) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 - [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。
@@ -335,6 +335,7 @@
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [shadowsocksr](https://github.com/shadowsocksr/shadowsocksr) - Python port of ShadowsocksR
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
 - [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
