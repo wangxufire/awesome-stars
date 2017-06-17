@@ -26,6 +26,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Rascal](#rascal)
   - [Ruby](#ruby)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -36,6 +37,7 @@
 
 ## C 
 
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
@@ -51,6 +53,7 @@
 
 ## C++ 
 
+- [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
 - [chromium-webar](https://github.com/googlevr/chromium-webar) - A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top of WebVR built in Chromium.
@@ -75,6 +78,10 @@
 
 ## Go 
 
+- [gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
+- [protoactor-go](https://github.com/AsynkronIT/protoactor-go) - Proto Actor - Ultra fast distributed actors for Golang and C#
+- [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
+- [logrus_mate](https://github.com/gogap/logrus_mate) - tool for logrus, let it easy to use
 - [mmake](https://github.com/tj/mmake) - Modern Make
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
@@ -115,7 +122,7 @@
 - [queue](https://github.com/go-on/queue) - Streamlined error handling and piping through a queue of go functions
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
+- [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [goconfig](https://github.com/Unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -127,7 +134,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - Fast, cross-platform HTTP/2 Web Framework for Go.
+- [iris](https://github.com/kataras/iris) - [ACQUIRED] The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -167,6 +174,7 @@
 
 ## HTML 
 
+- [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects"
 - [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
@@ -176,9 +184,10 @@
 
 ## Java 
 
+- [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [My-Wallet-V3-Android](https://github.com/blockchain/My-Wallet-V3-Android) - Blockchain Wallet - Android
 - [scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
-- [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用。该库是封装了okhttp的标准RESTful风格的网络框架，支持大文件上传下载，上传进度回调，下载进度回调，表单上传（多文件和多参数一起上传），链式调用，可以自定义返回对象，支持Https和自签名证书，支持超时自动重连，支持cookie的持久化和自动管理，支持五种缓存模式缓存网络数据，支持301和302重定向，扩展了统一的上传管理和下载管理功能
+- [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请求框架，完美支持RxJava，RxJava2，比Retrofit更简单易用。支持自定义缓存数据，扩展了统一的上传管理和下载管理功能
 - [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ. https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter
 - [google-java-format](https://github.com/google/google-java-format) - 
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
@@ -295,6 +304,7 @@
 
 ## Lua 
 
+- [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
 
@@ -316,6 +326,7 @@
 
 ## Others 
 
+- [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SS/SSR 去广告ACL规则，Telegram频道订阅地址
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - 
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
@@ -331,7 +342,6 @@
 - [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) - 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
 - [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) - Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 - [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects 微信公众号: codekk
 
@@ -355,6 +365,10 @@
 - [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+
+## Rascal 
+
+- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
 
 ## Ruby 
 
