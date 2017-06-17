@@ -43,7 +43,6 @@
 - [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Video player based on MPlayer/mplayer2
-- [ShadowsocksRDroid](https://github.com/KagayamaKaede/ShadowsocksRDroid) - A ShadowsocksR client for Android4.0+.Compatible Shadowsocks protocol and support some ShadowsocksR function.
 - [netdata](https://github.com/firehol/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 
 ## C# # 
