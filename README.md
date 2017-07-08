@@ -166,7 +166,6 @@
 - [webdemo](https://github.com/jianfengye/webdemo) - webdemo
 - [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [go-http-auth](https://github.com/abbot/go-http-auth) - Basic and Digest HTTP Authentication for golang http
-- [go.auth](https://github.com/bradrydzewski/go.auth) - [DEPRECATED] authentication API for Go web applications
 - [seelog](https://github.com/cihub/seelog) - Seelog is a native Go logging library that provides flexible asynchronous dispatching, filtering, and formatting.
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
@@ -185,6 +184,7 @@
 
 ## HTML 
 
+- [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects"
 - [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
@@ -247,7 +247,6 @@
 
 ## JavaScript 
 
-- [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is deprecated, see:
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -405,10 +404,7 @@
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [elasticsearch](https://github.com/tutumcloud/elasticsearch) - [Deprecated] Simple docker image to run an Elasticsearch server
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
-- [mongodb](https://github.com/tutumcloud/mongodb) - [Deprecated] Docker image to run an out-of-the-box MongoDB server
-- [rabbitmq](https://github.com/docker-library/rabbitmq) - Docker Official Image packaging for RabbitMQ
 - [gnome-catgen](https://github.com/prurigro/gnome-catgen) - A Gnome 3 application-overview folder configuration tool
 
 ## Swift 
