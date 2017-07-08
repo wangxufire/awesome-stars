@@ -79,6 +79,7 @@
 
 ## Go 
 
+- [gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 - [gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
 - [go-torch](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs
 - [deepcopier](https://github.com/ulule/deepcopier) - simple struct copying for golang
@@ -137,7 +138,6 @@
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [goconfig](https://github.com/Unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [qml](https://github.com/go-qml/qml) - QML support for the Go language
 - [backend](https://github.com/limetext/backend) - Backend for LimeText
 - [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
 - [logrus](https://github.com/gogap/logrus) - Obsolete, Please refer to gogap/logrus_mate
@@ -172,29 +172,26 @@
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
-- [gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
-- [gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
 - [go-json-rest](https://github.com/ant0ine/go-json-rest) - A quick and easy way to setup a RESTful JSON API
 
 ## Groovy 
 
 - [shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
-- [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - Web UI for private docker registry v2
 - [lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ## HTML 
 
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [google-styleguide](https://github.com/darcyliu/google-styleguide) - Mirror of "Style guides for Google-originated open-source projects"
 - [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
-- [spring-data-elasticsearch-sample](https://github.com/cooleo/spring-data-elasticsearch-sample) - spring boot elasticsearch sample
 
 ## Java 
 
+- [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
+- [spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [My-Wallet-V3-Android](https://github.com/blockchain/My-Wallet-V3-Android) - Blockchain Wallet - Android
 - [scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
@@ -202,7 +199,6 @@
 - [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ. https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter
 - [google-java-format](https://github.com/google/google-java-format) - 
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
-- [mybatis-generator-gui](https://github.com/astarring/mybatis-generator-gui) - mybatis-generator界面工具，让你生成代码更简单更快捷
 - [webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
 - [rome](https://github.com/rometools/rome) - Java framework for RSS and Atom feeds
 - [javacpp-presets](https://github.com/bytedeco/javacpp-presets) - The missing bridge between Java and native C++ libraries
@@ -215,7 +211,6 @@
 - [dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - A maven plugin for Docker
-- [spring-cloud-zookeeper](https://github.com/spring-cloud/spring-cloud-zookeeper) - Spring Cloud Zookeeper
 - [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [elastic-job](https://github.com/dangdangdotcom/elastic-job) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
@@ -226,24 +221,15 @@
 - [sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc) - A JDBC driver for shard databases and tables
 - [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) - Spring Security and Angular JS:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.
 - [ImageProject](https://github.com/windhc/ImageProject) - Springboot SpringSecurity AngularJS gradle 又拍云
-- [spring-boot-dubbo](https://github.com/linux-china/spring-boot-dubbo) - Spring Boot with Dubbo support
-- [service-registration-and-discovery](https://github.com/joshlong/service-registration-and-discovery) - A repository for a blog on how Spring Cloud promotes resilient service-to-service calls through service registries and service discovery
-- [Douban-Java-SDK-OAuth2](https://github.com/UglyTroLL/Douban-Java-SDK-OAuth2) - Douban Java SDK OAuth2
 - [oauth2](https://github.com/yuanhuan2005/oauth2) - Java Spring Security OAuth2 Server
-- [spring-boot-starter-dubbo](https://github.com/wacai/spring-boot-starter-dubbo) - a spring boot starter module for developing microservices with dubbo RPC framework.
-- [spring-boot-samples](https://github.com/netgloo/spring-boot-samples) - Spring Boot samples by Netgloo
-- [oltu-oauth2-example](https://github.com/ameizi/oltu-oauth2-example) - 使用Apache Oltu 搭建Oauth2 Server及Client开放授权
-- [go-lang-idea-plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin) - Google Go language IDE built using the IntelliJ Platform
 - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [opsu](https://github.com/itdelatrisu/opsu) - opsu! ~ an open-source osu! client
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [zkclient](https://github.com/sgroschupf/zkclient) - a zookeeper client, that makes life a little easier.
-- [dubbox](https://github.com/dangdangdotcom/dubbox) - Dubbox now means Dubbo eXtensions, and it adds features like RESTful remoting, Kyro/FST serialization, etc to the Dubbo service framework.
 - [fastjson](https://github.com/alibaba/fastjson) - :bullettrain_side: A fast JSON parser/generator for Java
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
 - [druid](https://github.com/alibaba/druid) - :hotsprings: 为监控而生的数据库连接池！
 - [uncode-schedule](https://github.com/uncodecn/uncode-schedule) - 基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。
-- [m2eclipse-subclipse](https://github.com/tesla/m2eclipse-subclipse) - Maven SCM Handler for Subclipse
 
 ## JavaScript 
 
@@ -332,8 +318,6 @@
 ## Objective-C 
 
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
-- [TouchBarDemoApp](https://github.com/bikkelbroeders/TouchBarDemoApp) - Allows you to use your macOS Touch Bar from an iPad (through USB connection) or on-screen by pressing the Fn-key.
-- [squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.
 - [DanDanPlayForMac](https://github.com/sunsx9316/DanDanPlayForMac) - 弹弹play mac版
 
