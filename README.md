@@ -37,6 +37,8 @@
 
 ## C 
 
+- [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
+- [shadowsocksr-libev](https://github.com/shadowsocksr/shadowsocksr-libev) - libev port of ShadowsocksR
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
@@ -77,6 +79,16 @@
 
 ## Go 
 
+- [gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
+- [go-torch](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs
+- [deepcopier](https://github.com/ulule/deepcopier) - simple struct copying for golang
+- [ProxyPool](https://github.com/henson/ProxyPool) - Golang实现的IP代理池
+- [vitess](https://github.com/youtube/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+- [oauth2](https://github.com/golang/oauth2) - Go OAuth2
+- [errors](https://github.com/pkg/errors) - Simple error handling primitives
+- [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client
+- [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
+- [gopkg](https://github.com/astaxie/gopkg) - example for the go pkg's function
 - [gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [protoactor-go](https://github.com/AsynkronIT/protoactor-go) - Proto Actor - Ultra fast distributed actors for Golang and C#
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -235,6 +247,7 @@
 
 ## JavaScript 
 
+- [ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is deprecated, see:
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -292,6 +305,8 @@
 
 ## Kotlin 
 
+- [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Libraries built upon Kotlin coroutines
+- [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language
 - [kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes.
@@ -325,6 +340,7 @@
 
 ## Others 
 
+- [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SS/SSR 去广告ACL规则，Telegram频道订阅地址
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - 
@@ -356,6 +372,7 @@
 
 ## Python 
 
+- [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。（少数派、Appinn、Mac玩儿法 推荐）
 - [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial) - TensorFlow & Deep Learning Tutorial
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [shadowsocksr](https://github.com/shadowsocksr/shadowsocksr) - Python port of ShadowsocksR
@@ -371,15 +388,18 @@
 
 ## Ruby 
 
+- [activerecord-import](https://github.com/zdennis/activerecord-import) - A library for bulk insertion of data into your database using ActiveRecord.
 - [blog](https://github.com/enml/blog) - a github pages blog
 
 ## Scala 
 
+- [snowflake](https://github.com/twitter/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps
 
 ## Shell 
 
+- [libev](https://github.com/enki/libev) - Full-featured high-performance event loop loosely modelled after libevent
 - [gimme](https://github.com/travis-ci/gimme) - Install go, yay!
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
@@ -393,6 +413,7 @@
 
 ## Swift 
 
+- [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 - [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。[iOS Swift Demos from Apple]
 - [Potatso](https://github.com/haxpor/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
 - [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
