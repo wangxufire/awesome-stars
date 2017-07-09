@@ -37,6 +37,7 @@
 
 ## C 
 
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
 - [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
 - [shadowsocksr-libev](https://github.com/shadowsocksr/shadowsocksr-libev) - libev port of ShadowsocksR
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
@@ -79,6 +80,7 @@
 
 ## Go 
 
+- [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 - [gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
 - [go-torch](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs
@@ -355,6 +357,7 @@
 
 ## Python 
 
+- [shadowsocks-analysis](https://github.com/lixingcong/shadowsocks-analysis) - Help you understand how shadowsocks works.
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。（少数派、Appinn、Mac玩儿法 推荐）
 - [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial) - TensorFlow & Deep Learning Tutorial
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
