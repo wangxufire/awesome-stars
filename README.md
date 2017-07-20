@@ -37,6 +37,7 @@
 
 ## C 
 
+- [magenta](https://github.com/fuchsia-mirror/magenta) - Magenta Kernel, Core Drivers, and Services
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
 - [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
 - [shadowsocksr-libev](https://github.com/shadowsocksr/shadowsocksr-libev) - libev port of ShadowsocksR
@@ -50,11 +51,13 @@
 
 ## C# # 
 
+- [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub is an iOS application written using Xamarin
 - [BaiduPanDownloadWinform](https://github.com/ResourceHunter/BaiduPanDownloadWinform) - 百度网盘不限速下载工具
 
 ## C++ 
 
+- [rust-bindgen](https://github.com/servo/rust-bindgen) - Automatically generates Rust FFI bindings to C and C++ libraries.
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
@@ -143,11 +146,10 @@
 - [backend](https://github.com/limetext/backend) - Backend for LimeText
 - [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
 - [logrus](https://github.com/gogap/logrus) - Obsolete, Please refer to gogap/logrus_mate
-- [validator](https://github.com/gin-gonic/validator) - Package validator implements struct field validations
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - [ACQUIRED] The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO.
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO. Mobile Ready-To-GO
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -192,18 +194,16 @@
 
 ## Java 
 
+- [genie](https://github.com/Netflix/genie) - Distributed Big Data Orchestration Service
 - [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
 - [spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [My-Wallet-V3-Android](https://github.com/blockchain/My-Wallet-V3-Android) - Blockchain Wallet - Android
 - [scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
-- [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0震撼来袭，该库是封装了okhttp的标准RESTful风格的网络请求框架，完美支持RxJava，RxJava2，比Retrofit更简单易用。支持自定义缓存数据，扩展了统一的上传管理和下载管理功能
-- [EclipseCodeFormatter](https://github.com/krasa/EclipseCodeFormatter) - IntelliJ plugin - Allows using Eclipse's code formatter directly from IntelliJ. https://plugins.jetbrains.com/plugin/6546-eclipse-code-formatter
+- [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
 - [google-java-format](https://github.com/google/google-java-format) - 
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
 - [webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
 - [rome](https://github.com/rometools/rome) - Java framework for RSS and Atom feeds
-- [javacpp-presets](https://github.com/bytedeco/javacpp-presets) - The missing bridge between Java and native C++ libraries
 - [javassist](https://github.com/jboss-javassist/javassist) - Java bytecode engineering toolkit
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid high-performance JDBC connection pool at last.
 - [packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X
@@ -219,11 +219,6 @@
 - [http-request](https://github.com/kevinsawicki/http-request) - Java HTTP Request Library
 - [JGroups](https://github.com/belaban/JGroups) - The JGroups project
 - [j360-cloud-all](https://github.com/xuminwlt/j360-cloud-all) - spring cloud独立功能介绍和demo 分布式配置服务器、客户端、服务发现、负载均衡、断路器Hytrix
-- [spring-cloud-microservice-example](https://github.com/kbastani/spring-cloud-microservice-example) - An example project that demonstrates an end-to-end cloud native application using Spring Cloud for building a practical microservices architecture.
-- [sharding-jdbc](https://github.com/dangdangdotcom/sharding-jdbc) - A JDBC driver for shard databases and tables
-- [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) - Spring Security and Angular JS:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.
-- [ImageProject](https://github.com/windhc/ImageProject) - Springboot SpringSecurity AngularJS gradle 又拍云
-- [oauth2](https://github.com/yuanhuan2005/oauth2) - Java Spring Security OAuth2 Server
 - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [opsu](https://github.com/itdelatrisu/opsu) - opsu! ~ an open-source osu! client
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
@@ -235,18 +230,16 @@
 
 ## JavaScript 
 
+- [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for AngularJS with an Express server
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
-- [swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [ShadowsocksX-NG](https://github.com/shadowsocksr/ShadowsocksX-NG) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
-- [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。
 - [asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -260,31 +253,18 @@
 - [photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
 - [docker-registry2-ui](https://github.com/wangxufire/docker-registry2-ui) - docker-registry2-ui
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
-- [angular2-authentication-sample](https://github.com/auth0-blog/angular2-authentication-sample) - This is a sample that shows how to add authentication to an Angular 2 (ng2) app
-- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.
-- [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
-- [angular-webpack](https://github.com/preboot/angular-webpack) - A complete, yet simple, starter for Angular v2+ using webpack
 - [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
-- [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
-- [generator-jhipster-react](https://github.com/hipster-labs/generator-jhipster-react) - A Jhipster based generator to create react + spring boot application
 - [cat](https://github.com/dianping/cat) - Central Application Tracking
 - [react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10
-- [community](https://github.com/LittleDouBi/community) - 问答社区
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
-- [examples](https://github.com/koajs/examples) - Example Koa apps
-- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
-- [express-starter](https://github.com/i5ting/express-starter) - a nodejs express boilerplate project for starter
 - [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [nodejs](https://github.com/narayand4/nodejs) - Node js examples for beginners.
-- [nodejs-demo](https://github.com/bsspirit/nodejs-demo) - nodejs-demo
 - [gas](https://github.com/featen/gas) - Golang + AngularJS + Sqlite
 - [generator-angular-go-martini](https://github.com/rayokota/generator-angular-go-martini) - Yeoman generator for AngularJS + Go + Martini
-- [bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!
 
 ## Jupyter Notebook 
 
@@ -325,22 +305,18 @@
 
 ## Others 
 
+- [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SS/SSR 去广告ACL规则，Telegram频道订阅地址
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
-- [fuchsia](https://github.com/fuchsia-mirror/fuchsia) - 
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+- [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [angular2-learning-cn](https://github.com/kittencup/angular2-learning-cn) - Angular 2 中文资料汇总(文章，视频，教程)
 - [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 workflows that will rock your world
-- [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) - RxJava resources
 - [reactor](https://github.com/reactor/reactor) - Reactor BOM and legacy (2.x, 1.x)
-- [angular2-ama-cn](https://github.com/kittencup/angular2-ama-cn) - angular2 随便问
-- [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) - 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
-- [Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) - Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 - [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects 微信公众号: codekk
@@ -349,7 +325,6 @@
 
 - [php-framework-benchmark](https://github.com/kenjis/php-framework-benchmark) - PHP Framework Benchmark
 - [Hateoas](https://github.com/willdurand/Hateoas) - A PHP library to support implementing representations for HATEOAS REST web services.
-- [bpcs_uploader](https://github.com/oott123/bpcs_uploader) - 百度pcs上传脚本
 
 ## PowerShell 
 
@@ -396,6 +371,9 @@
 
 ## Swift 
 
+- [LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Lyrics for iTunes, Spotify and Vox
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
+- [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 - [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。[iOS Swift Demos from Apple]
 - [Potatso](https://github.com/haxpor/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
@@ -408,6 +386,8 @@
 
 ## TypeScript 
 
+- [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
+- [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced) - Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux
@@ -415,15 +395,11 @@
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
 - [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
-- [angular2-github-manage](https://github.com/kittencup/angular2-github-manage) - github manage for angular 2 app
 - [ng2-admin](https://github.com/akveo/ng2-admin) - Angular admin dashboard framework
 - [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
-- [angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter
-- [angular2-playground](https://github.com/xie-qianyue/angular2-playground) - 
-- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 
 ## Vim script 
 
