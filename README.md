@@ -51,9 +51,10 @@
 
 ## C# # 
 
+- [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler
 - [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
 - [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub is an iOS application written using Xamarin
-- [BaiduPanDownloadWinform](https://github.com/ResourceHunter/BaiduPanDownloadWinform) - 百度网盘不限速下载工具
+- [BaiduPanDownloadWinform](https://github.com/Accelerider/BaiduPanDownloadWinform) - 百度网盘不限速下载工具
 
 ## C++ 
 
@@ -75,6 +76,7 @@
 
 ## CSS 
 
+- [shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - The blog theme you may fall in love with, coming to Hexo.
 - [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [mobistore](https://github.com/aaronchen2k/mobistore) - eCommerce Fashion Store
@@ -203,7 +205,7 @@
 - [google-java-format](https://github.com/google/google-java-format) - 
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
 - [webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
-- [rome](https://github.com/rometools/rome) - Java framework for RSS and Atom feeds
+- [rome](https://github.com/rometools/rome) - Java library for RSS and Atom feeds
 - [javassist](https://github.com/jboss-javassist/javassist) - Java bytecode engineering toolkit
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid high-performance JDBC connection pool at last.
 - [packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X
