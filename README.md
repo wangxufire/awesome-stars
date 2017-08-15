@@ -40,7 +40,6 @@
 - [magenta](https://github.com/fuchsia-mirror/magenta) - Magenta Kernel, Core Drivers, and Services
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
 - [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
-- [shadowsocksr-libev](https://github.com/shadowsocksr/shadowsocksr-libev) - libev port of ShadowsocksR
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
@@ -58,7 +57,7 @@
 
 ## C++ 
 
-- [rust-bindgen](https://github.com/servo/rust-bindgen) - Automatically generates Rust FFI bindings to C and C++ libraries.
+- [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C and C++ libraries.
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
@@ -76,6 +75,7 @@
 
 ## CSS 
 
+- [NiceFish](https://github.com/damoqiongqiu/NiceFish) - NiceFish（美人鱼）是一个系列项目，全面演示了Angular最新版本的各种用法，从桌面端到移动端都有demo，来抄啊！
 - [shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - The blog theme you may fall in love with, coming to Hexo.
 - [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
@@ -85,6 +85,7 @@
 
 ## Go 
 
+- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 - [gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
@@ -131,7 +132,7 @@
 - [gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
-- [google-cloud-go](https://github.com/GoogleCloudPlatform/google-cloud-go) - Google Cloud APIs Go Client Library
+- [google-cloud-go](https://github.com/GoogleCloudPlatform/google-cloud-go) - Google Cloud Client Libraries for Go
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [hprose-golang](https://github.com/hprose/hprose-golang) - Hprose is a cross-language RPC. This project is Hprose 2.0 for Golang.
 - [harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution
@@ -189,13 +190,16 @@
 
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
+- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @AngularClass a @OneSpeed-io company
 - [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
 
 ## Java 
 
+- [vert.x](https://github.com/eclipse/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
+- [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
+- [PiggyMetrics](https://github.com/sqshq/PiggyMetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
 - [genie](https://github.com/Netflix/genie) - Distributed Big Data Orchestration Service
 - [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
 - [spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
@@ -227,7 +231,7 @@
 - [zkclient](https://github.com/sgroschupf/zkclient) - a zookeeper client, that makes life a little easier.
 - [fastjson](https://github.com/alibaba/fastjson) - :bullettrain_side: A fast JSON parser/generator for Java
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
-- [druid](https://github.com/alibaba/druid) - :hotsprings: 为监控而生的数据库连接池！
+- [druid](https://github.com/alibaba/druid) - :hotsprings: 为监控而生的数据库连接池！阿里云DRDS(https://www.aliyun.com/product/drds )、阿里巴巴TDDL 连接池powered by Druid
 - [uncode-schedule](https://github.com/uncodecn/uncode-schedule) - 基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。
 
 ## JavaScript 
@@ -241,7 +245,6 @@
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 - [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [ShadowsocksX-NG](https://github.com/shadowsocksr/ShadowsocksX-NG) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。
 - [asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -255,7 +258,7 @@
 - [photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
 - [docker-registry2-ui](https://github.com/wangxufire/docker-registry2-ui) - docker-registry2-ui
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
-- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
+- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass  a @OneSpeed-io company
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 - [cat](https://github.com/dianping/cat) - Central Application Tracking
 - [react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
@@ -287,6 +290,7 @@
 
 ## Lua 
 
+- [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) - Lua library for limiting and controlling traffic in OpenResty/ngx_lua
 - [lsyncd](https://github.com/axkibe/lsyncd) - Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [go-qt5](https://github.com/salviati/go-qt5) - qt5 bindings for go
@@ -307,6 +311,7 @@
 
 ## Others 
 
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SS/SSR 去广告ACL规则，Telegram频道订阅地址
@@ -325,6 +330,7 @@
 
 ## PHP 
 
+- [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source code for the framework benchmarking project
 - [php-framework-benchmark](https://github.com/kenjis/php-framework-benchmark) - PHP Framework Benchmark
 - [Hateoas](https://github.com/willdurand/Hateoas) - A PHP library to support implementing representations for HATEOAS REST web services.
 
@@ -334,11 +340,11 @@
 
 ## Python 
 
+- [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [shadowsocks-analysis](https://github.com/lixingcong/shadowsocks-analysis) - Help you understand how shadowsocks works.
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。（少数派、Appinn、Mac玩儿法 推荐）
 - [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial) - TensorFlow & Deep Learning Tutorial
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
-- [shadowsocksr](https://github.com/shadowsocksr/shadowsocksr) - Python port of ShadowsocksR
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 - [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
 - [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
@@ -405,6 +411,7 @@
 
 ## Vim script 
 
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - :two_hearts: A community-driven vim distribution inspired by spacemacs
 - [k-vim](https://github.com/wklken/k-vim) - vim配置
 
 ## VimL 
