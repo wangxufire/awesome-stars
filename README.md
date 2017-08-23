@@ -21,6 +21,7 @@
   - [Lua](#lua)
   - [M](#m)
   - [Makefile](#makefile)
+  - [Metal](#metal)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -57,6 +58,7 @@
 
 ## C++ 
 
+- [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C and C++ libraries.
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -152,7 +154,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready-To-GO. Mobile Ready-To-GO
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it.
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -162,7 +164,6 @@
 - [gopm](https://github.com/gpmgo/gopm) - Go Package Manager (gopm) is a package manager and build tool for Go.
 - [gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 - [goim](https://github.com/Terry-Mao/goim) - goim
-- [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 - [qor-example](https://github.com/qor/qor-example) - An example application showcasing the QOR SDK
 - [redigo](https://github.com/garyburd/redigo) - Go client for Redis
 - [pholcus](https://github.com/henrylee2cn/pholcus) - [Crawler for Golang] Pholcus is a distributed, high concurrency and powerful web crawler software.
@@ -194,6 +195,7 @@
 - [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
+- [studygolang](https://github.com/studygolang/studygolang) - Go 语言中文网 | Golang中文社区 | Go语言学习园地 源码
 
 ## Java 
 
@@ -236,6 +238,8 @@
 
 ## JavaScript 
 
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
+- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
@@ -303,6 +307,10 @@
 
 - [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
+## Metal 
+
+- [makegirls.moe_web](https://github.com/makegirlsmoe/makegirls.moe_web) - Create Anime Characters with MakeGirls.moe
+
 ## Objective-C 
 
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -340,6 +348,7 @@
 
 ## Python 
 
+- [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [shadowsocks-analysis](https://github.com/lixingcong/shadowsocks-analysis) - Help you understand how shadowsocks works.
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。（少数派、Appinn、Mac玩儿法 推荐）
