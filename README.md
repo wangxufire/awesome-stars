@@ -310,6 +310,8 @@
 
 ## Objective-C 
 
+- [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开
+- [HexFiend](https://github.com/ridiculousfish/HexFiend) - A fast and clever hex editor for Mac OS X
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.
 - [DanDanPlayForMac](https://github.com/sunsx9316/DanDanPlayForMac) - 弹弹play mac版
@@ -401,6 +403,7 @@
 
 ## TypeScript 
 
+- [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
