@@ -21,7 +21,6 @@
   - [Lua](#lua)
   - [M](#m)
   - [Makefile](#makefile)
-  - [Metal](#metal)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -38,7 +37,6 @@
 
 ## C 
 
-- [magenta](https://github.com/fuchsia-mirror/magenta) - Magenta Kernel, Core Drivers, and Services
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
 - [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
@@ -53,17 +51,18 @@
 
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler
 - [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
-- [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub is an iOS application written using Xamarin
+- [CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 - [BaiduPanDownloadWinform](https://github.com/Accelerider/BaiduPanDownloadWinform) - 百度网盘不限速下载工具
 
 ## C++ 
 
 - [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C and C++ libraries.
+- [magenta](https://github.com/fuchsia-mirror/magenta) - Magenta Kernel, Core Drivers, and Services
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
-- [chromium-webar](https://github.com/googlevr/chromium-webar) - A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top of WebVR built in Chromium.
+- [WebARonTango](https://github.com/google-ar/WebARonTango) - A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top of WebVR built in Chromium.
 - [tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
@@ -77,7 +76,7 @@
 
 ## CSS 
 
-- [NiceFish](https://github.com/damoqiongqiu/NiceFish) - NiceFish（美人鱼）是一个系列项目，全面演示了Angular最新版本的各种用法，从桌面端到移动端都有demo，来抄啊！
+- [NiceFish](https://github.com/damoqiongqiu/NiceFish) - NiceFish（美人鱼）是一个系列教学项目，全面示范了Angular新版本在浏览器、移动端、Electron环境中的用法。
 - [shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - The blog theme you may fall in love with, coming to Hexo.
 - [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
@@ -208,7 +207,7 @@
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [scribejava](https://github.com/scribejava/scribejava) - Simple OAuth library for Java
 - [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
-- [google-java-format](https://github.com/google/google-java-format) - 
+- [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
 - [webporter](https://github.com/brianway/webporter) - 基于 webmagic 的 Java 爬虫应用
 - [rome](https://github.com/rometools/rome) - Java library for RSS and Atom feeds
@@ -238,8 +237,10 @@
 
 ## JavaScript 
 
+- [thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [makegirls.moe_web](https://github.com/makegirlsmoe/makegirls.moe_web) - Create Anime Characters with MakeGirlsMoe
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
@@ -307,10 +308,6 @@
 
 - [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
-## Metal 
-
-- [makegirls.moe_web](https://github.com/makegirlsmoe/makegirls.moe_web) - Create Anime Characters with MakeGirls.moe
-
 ## Objective-C 
 
 - [GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -319,6 +316,7 @@
 
 ## Others 
 
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
@@ -403,6 +401,7 @@
 
 ## TypeScript 
 
+- [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced) - Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
