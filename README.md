@@ -37,6 +37,7 @@
 
 ## C 
 
+- [insert_dylib](https://github.com/Tyilo/insert_dylib) - Command line utility for inserting a dylib load command into a Mach-O binary
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
 - [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
@@ -318,6 +319,7 @@
 
 ## Others 
 
+- [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
@@ -348,6 +350,7 @@
 
 ## Python 
 
+- [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [shadowsocks-analysis](https://github.com/lixingcong/shadowsocks-analysis) - Help you understand how shadowsocks works.
