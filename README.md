@@ -238,6 +238,7 @@
 
 ## JavaScript 
 
+- [JavaScript-ID3-Reader](https://github.com/aadsm/JavaScript-ID3-Reader) - ID3 tags reader in JavaScript (ID3v1, ID3v2 and AAC)
 - [thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
