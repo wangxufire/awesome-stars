@@ -81,12 +81,16 @@
 - [shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - The blog theme you may fall in love with, coming to Hexo.
 - [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [mobistore](https://github.com/aaronchen2k/mobistore) - eCommerce Fashion Store
 - [google-java-styleguide](https://github.com/codeset/google-java-styleguide) - Google Java代码风格规范 (中文版)
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 
 ## Go 
 
+- [telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
+- [GroupHub_Bot](https://github.com/livc/GroupHub_Bot) - A Telegram Bot to collect Chinese groups.
+- [go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
@@ -154,7 +158,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it.
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -189,6 +193,7 @@
 
 ## HTML 
 
+- [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @AngularClass a @OneSpeed-io company
@@ -238,20 +243,20 @@
 
 ## JavaScript 
 
+- [log4js-node](https://github.com/nomiddlename/log4js-node) - A port of log4js to node.js
 - [JavaScript-ID3-Reader](https://github.com/aadsm/JavaScript-ID3-Reader) - ID3 tags reader in JavaScript (ID3v1, ID3v2 and AAC)
 - [thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
-- [makegirls.moe_web](https://github.com/makegirlsmoe/makegirls.moe_web) - Create Anime Characters with MakeGirlsMoe
+- [makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [react-vr](https://github.com/facebook/react-vr) - Create amazing 360 and VR content using React
-- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 - [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
-- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。
 - [asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -280,7 +285,7 @@
 
 ## Jupyter Notebook 
 
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for beginners
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 
 ## Kotlin 
 
@@ -320,13 +325,13 @@
 
 ## Others 
 
+- [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A public list of APIs from round the web.
 - [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SS/SSR 去广告ACL规则，Telegram频道订阅地址
-- [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
@@ -337,7 +342,7 @@
 - [reactor](https://github.com/reactor/reactor) - Reactor BOM and legacy (2.x, 1.x)
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
-- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects 微信公众号: codekk
+- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  Dev Tools Pro:
 
 ## PHP 
 
@@ -357,6 +362,7 @@
 - [shadowsocks-analysis](https://github.com/lixingcong/shadowsocks-analysis) - Help you understand how shadowsocks works.
 - [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。（少数派、Appinn、Mac玩儿法 推荐）
 - [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial) - TensorFlow & Deep Learning Tutorial
+- [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.
 - [bcloud](https://github.com/LiuLang/bcloud) - 百度网盘的linux桌面客户端
@@ -392,6 +398,8 @@
 
 ## Swift 
 
+- [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa
+- [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Lyrics for iTunes, Spotify and Vox
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
@@ -418,7 +426,7 @@
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
 - [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
-- [ng2-admin](https://github.com/akveo/ng2-admin) - Angular admin dashboard framework
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Nebular framework (Angular 4+, Bootstrap 4) previously known as ng2-admin
 - [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
