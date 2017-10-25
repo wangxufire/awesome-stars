@@ -247,9 +247,10 @@
 
 ## JavaScript 
 
+- [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
-- [log4js-node](https://github.com/nomiddlename/log4js-node) - A port of log4js to node.js
+- [log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
 - [JavaScript-ID3-Reader](https://github.com/aadsm/JavaScript-ID3-Reader) - ID3 tags reader in JavaScript (ID3v1, ID3v2 and AAC)
 - [thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
@@ -284,7 +285,6 @@
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [plotly.js](https://github.com/plotly/plotly.js) - The open source JavaScript graphing library that powers plotly
-- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [nodejs](https://github.com/narayand4/nodejs) - Node js examples for beginners.
 - [gas](https://github.com/featen/gas) - Golang + AngularJS + Sqlite
 - [generator-angular-go-martini](https://github.com/rayokota/generator-angular-go-martini) - Yeoman generator for AngularJS + Go + Martini
@@ -350,6 +350,7 @@
 - [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 workflows that will rock your world
 - [reactor](https://github.com/reactor/reactor) - Reactor BOM and legacy (2.x, 1.x)
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+- [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 - [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  Dev Tools Pro:
 
