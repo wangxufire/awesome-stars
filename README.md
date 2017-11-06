@@ -28,6 +28,7 @@
   - [Python](#python)
   - [Rascal](#rascal)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
@@ -58,7 +59,7 @@
 ## C++ 
 
 - [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
-- [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C and C++ libraries.
+- [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [magenta](https://github.com/fuchsia-mirror/magenta) - Magenta Kernel, Core Drivers, and Services
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
@@ -90,6 +91,8 @@
 
 ## Go 
 
+- [faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
+- [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
 - [telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [GroupHub_Bot](https://github.com/livc/GroupHub_Bot) - [DEPRECATED] A Telegram Bot to collect Chinese groups.
@@ -157,7 +160,7 @@
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [backend](https://github.com/limetext/backend) - Backend for LimeText
 - [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
-- [logrus](https://github.com/gogap/logrus) - Obsolete, Please refer to gogap/logrus_mate
+- [logrus](https://github.com/gogap/logrus) - DEPRECATED, Please refer to gogap/logrus_mate
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
@@ -207,6 +210,7 @@
 
 ## Java 
 
+- [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [redis-replicator](https://github.com/leonchen83/redis-replicator) - Redis replication tool. support sync,psync,psync2. can parse rdb,aof,mixed rdb aof file. support redis4.0
 - [vert.x](https://github.com/eclipse/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
@@ -232,7 +236,7 @@
 - [docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - A maven plugin for Docker
 - [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-- [elastic-job](https://github.com/dangdangdotcom/elastic-job) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
+- [elastic-job](https://github.com/elasticjob/elastic-job) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
 - [http-request](https://github.com/kevinsawicki/http-request) - Java HTTP Request Library
 - [JGroups](https://github.com/belaban/JGroups) - The JGroups project
 - [j360-cloud-all](https://github.com/xuminwlt/j360-cloud-all) - spring cloud独立功能介绍和demo 分布式配置服务器、客户端、服务发现、负载均衡、断路器Hytrix
@@ -332,12 +336,12 @@
 
 ## Others 
 
+- [samplecode](https://github.com/kubeguide/samplecode) - 
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [Surge](https://github.com/lhie1/Surge) - Twitter：@lhie1x
 - [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A public list of APIs from round the web.
 - [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
-- [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SS/SSR 去广告ACL规则，Telegram频道订阅地址
@@ -391,8 +395,13 @@
 - [activerecord-import](https://github.com/zdennis/activerecord-import) - A library for bulk insertion of data into your database using ActiveRecord.
 - [blog](https://github.com/enml/blog) - a github pages blog
 
+## Rust 
+
+- [servo](https://github.com/servo/servo) - The Servo Browser Engine
+
 ## Scala 
 
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [snowflake](https://github.com/twitter/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps
@@ -429,6 +438,7 @@
 
 ## TypeScript 
 
+- [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
 - [chromeless](https://github.com/graphcool/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
