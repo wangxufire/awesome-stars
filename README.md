@@ -164,7 +164,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it. https://docs.iris-go.com
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it. https://iris-go.com/v8/recipe
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -281,7 +281,7 @@
 - [photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
 - [docker-registry2-ui](https://github.com/wangxufire/docker-registry2-ui) - docker-registry2-ui
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
-- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 3 by @AngularClass  a @OneSpeed-io company
+- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @TipeIO
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 - [cat](https://github.com/dianping/cat) - Central Application Tracking
 - [react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
@@ -299,6 +299,7 @@
 
 ## Kotlin 
 
+- [ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Libraries built upon Kotlin coroutines
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language
@@ -356,7 +357,7 @@
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
-- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  Dev Tools Pro:
+- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
 
 ## PHP 
 
@@ -370,6 +371,7 @@
 
 ## Python 
 
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [docker-WeChat](https://github.com/bao3/docker-WeChat) - 一个利用  https://github.com/blueset/ehForwarderBot 构建成微信机器人的东西，其实就是使用 telegram来收发 web 版微信。
 - [Conf-for-Surge-Shadowrocket](https://github.com/XinSSS/Conf-for-Surge-Shadowrocket) - Surge Shadowrocket conf
 - [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
@@ -458,6 +460,7 @@
 
 ## Vim script 
 
+- [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - :two_hearts: A community-driven vim distribution inspired by spacemacs
 
 ## VimL 
