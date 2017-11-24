@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, etc)
 - [faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
@@ -165,7 +166,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it.
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in The Universe. MVC fully featured. Embrace the future today
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -358,7 +359,7 @@
 
 ## PHP 
 
-- [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source code for the framework benchmarking project
+- [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [php-framework-benchmark](https://github.com/kenjis/php-framework-benchmark) - PHP Framework Benchmark
 - [Hateoas](https://github.com/willdurand/Hateoas) - A PHP library to support implementing representations for HATEOAS REST web services.
 
@@ -449,7 +450,7 @@
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
 - [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based onAngular 4+, Bootstrap 4 (previously known as ng2-admin)
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 4+, Bootstrap 4 (previously known as ng2-admin)
 - [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
