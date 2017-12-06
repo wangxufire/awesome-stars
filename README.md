@@ -31,6 +31,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
   - [VimL](#viml)
@@ -91,6 +92,8 @@
 
 ## Go 
 
+- [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
+- [container-diff](https://github.com/GoogleCloudPlatform/container-diff) - container-diff: Diff your Docker containers
 - [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, etc)
 - [faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
@@ -166,7 +169,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in The Universe. MVC fully featured. Embrace the future today
+- [iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) Universe. HTTP/2 & MVC fully featured. :gift: Real-time support
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -201,6 +204,7 @@
 
 ## HTML 
 
+- [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -340,7 +344,7 @@
 - [Surge](https://github.com/lhie1/Surge) - Twitter：@lhie1x
 - [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A public list of APIs from round the web.
 - [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 150 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, and Terminator)
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 175 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, and Terminator)
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SS/SSR 去广告ACL规则，Telegram频道订阅地址
@@ -370,7 +374,6 @@
 ## Python 
 
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
-- [docker-WeChat](https://github.com/bao3/docker-WeChat) - 一个利用  https://github.com/blueset/ehForwarderBot 构建成微信机器人的东西，其实就是使用 telegram来收发 web 版微信。
 - [Conf-for-Surge-Shadowrocket](https://github.com/XinSSS/Conf-for-Surge-Shadowrocket) - Surge Shadowrocket conf
 - [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
@@ -397,6 +400,7 @@
 
 ## Rust 
 
+- [futures-await](https://github.com/alexcrichton/futures-await) - 
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 
 ## Scala 
@@ -404,7 +408,7 @@
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [snowflake](https://github.com/twitter/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
-- [linkerd](https://github.com/linkerd/linkerd) - Resilient service mesh for cloud native apps
+- [linkerd](https://github.com/linkerd/linkerd) - Production-grade feature-rich service mesh for any platform
 
 ## Shell 
 
@@ -414,6 +418,7 @@
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [gnome-catgen](https://github.com/prurigro/gnome-catgen) - A Gnome 3 application-overview folder configuration tool
 
@@ -436,6 +441,10 @@
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
+## TeX 
+
+- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
+
 ## TypeScript 
 
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST
@@ -454,7 +463,6 @@
 - [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2 apps
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
-- [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 
 ## Vim script 
 
