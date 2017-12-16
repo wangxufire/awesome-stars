@@ -38,6 +38,7 @@
 
 ## C 
 
+- [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - tinyhttpd 是一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。
 - [insert_dylib](https://github.com/Tyilo/insert_dylib) - Command line utility for inserting a dylib load command into a Mach-O binary
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
@@ -59,10 +60,11 @@
 
 ## C++ 
 
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 - [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [magenta](https://github.com/fuchsia-mirror/magenta) - Magenta Kernel, Core Drivers, and Services
-- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
@@ -94,7 +96,7 @@
 
 - [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
 - [container-diff](https://github.com/GoogleCloudPlatform/container-diff) - container-diff: Diff your Docker containers
-- [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, etc)
+- [node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
 - [faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
 - [otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 - [vg](https://github.com/GetStream/vg) - Virtualgo: Easy and powerful workspace based development for go
@@ -127,7 +129,7 @@
 - [traefik](https://github.com/containous/traefik) - Træfik, a modern reverse proxy
 - [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [go](https://github.com/golang/go) - The Go programming language
-- [go-smashcast](https://github.com/toby3d/go-smashcast) - A simple library on Go for work with smashcast API streaming service
+- [go-smashcast](https://github.com/toby3d/go-smashcast) - [DISCONTINUED] A simple library on Go for work with smashcast API streaming service
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [google-api-go-client](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go
 - [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
@@ -159,7 +161,7 @@
 - [queue](https://github.com/go-on/queue) - Streamlined error handling and piping through a queue of go functions
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang.
+- [hugo](https://github.com/gohugoio/hugo) - Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [goconfig](https://github.com/Unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -204,6 +206,7 @@
 
 ## HTML 
 
+- [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
@@ -216,6 +219,8 @@
 
 ## Java 
 
+- [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
+- [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin) - Maven plugin to find duplicate classes or resources
 - [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [redis-replicator](https://github.com/leonchen83/redis-replicator) - Redis replication tool. support sync,psync,psync2. can parse rdb,aof,mixed rdb aof file. support redis4.0
 - [vert.x](https://github.com/eclipse/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
@@ -257,6 +262,7 @@
 
 ## JavaScript 
 
+- [g2](https://github.com/antvis/g2) - G2 (The Grammar of Graphics)
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
