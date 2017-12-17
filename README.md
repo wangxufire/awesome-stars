@@ -161,7 +161,7 @@
 - [queue](https://github.com/go-on/queue) - Streamlined error handling and piping through a queue of go functions
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-- [hugo](https://github.com/gohugoio/hugo) - Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
+- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [goconfig](https://github.com/Unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -219,6 +219,7 @@
 
 ## Java 
 
+- [blade](https://github.com/biezhi/blade) - :rocket: lightning fast and elegant mvc framework for Java8
 - [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 - [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin) - Maven plugin to find duplicate classes or resources
 - [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
@@ -262,6 +263,7 @@
 
 ## JavaScript 
 
+- [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 - [g2](https://github.com/antvis/g2) - G2 (The Grammar of Graphics)
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
