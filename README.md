@@ -219,7 +219,11 @@
 
 ## Java 
 
-- [blade](https://github.com/biezhi/blade) - :rocket: lightning fast and elegant mvc framework for Java8
+- [servlet-spec](https://github.com/javaee/servlet-spec) - The API and Issue Tracker for the JCP Standard Java Servlet Specification
+- [polyglot-maven](https://github.com/takari/polyglot-maven) - Support alternative markup for Apache Maven POM files
+- [eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+- [Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [blade](https://github.com/biezhi/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
 - [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 - [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin) - Maven plugin to find duplicate classes or resources
 - [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
@@ -248,7 +252,7 @@
 - [docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - A maven plugin for Docker
 - [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-- [elastic-job](https://github.com/elasticjob/elastic-job) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
+- [elastic-job-lite](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper.
 - [http-request](https://github.com/kevinsawicki/http-request) - Java HTTP Request Library
 - [JGroups](https://github.com/belaban/JGroups) - The JGroups project
 - [j360-cloud-all](https://github.com/xuminwlt/j360-cloud-all) - spring cloud独立功能介绍和demo 分布式配置服务器、客户端、服务发现、负载均衡、断路器Hytrix
@@ -440,7 +444,7 @@
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
-- [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。[iOS Swift Demos from Apple]
+- [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。QQ交流群 32958950 申请请注明开发经验
 - [Potatso](https://github.com/haxpor/Potatso) - (unmaintained) Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
 - [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
