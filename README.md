@@ -101,7 +101,7 @@
 
 ## Go 
 
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘工具箱 - Go语言编写
+- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [pouch](https://github.com/alibaba/pouch) - Pouch is an open-source project created to promote the container technology movement.
 - [container-diff](https://github.com/GoogleCloudPlatform/container-diff) - container-diff: Diff your Docker containers
@@ -153,7 +153,7 @@
 - [properties](https://github.com/magiconair/properties) - Java properties scanner for Go
 - [goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) - go port of shadowsocks
-- [lint](https://github.com/golang/lint) - This is a linter for Go source code.
+- [lint](https://github.com/golang/lint) - [mirror] This is a linter for Go source code.
 - [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
@@ -215,6 +215,7 @@
 
 ## HTML 
 
+- [jetbrians](https://github.com/dingdayu/jetbrians) - jetbrians IntelliJIDEALicenseServer dockerfile
 - [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
@@ -223,6 +224,7 @@
 - [awesome-angular](https://github.com/gdi2290/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @TipeIO
 - [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
+- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular projects in seconds!
 - [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
 
 ## Java 
@@ -261,7 +263,6 @@
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid high-performance JDBC connection pool at last.
 - [packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X
 - [google-api-java-client](https://github.com/google/google-api-java-client) - Google APIs Client Library for Java
-- [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular projects in seconds!
 - [spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. News: Spark now has a kotlin DSL https://github.com/perwendel/spark-kotlin
 - [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 - [dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
@@ -496,7 +497,7 @@
 ## Vim script 
 
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - :two_hearts: A community-driven vim distribution inspired by spacemacs
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate Vim configuration
 - [vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 
 ## VimL 
