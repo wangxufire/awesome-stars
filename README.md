@@ -11,6 +11,7 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -25,7 +26,6 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
-  - [Rascal](#rascal)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -43,13 +43,13 @@
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [insert_dylib](https://github.com/Tyilo/insert_dylib) - Command line utility for inserting a dylib load command into a Mach-O binary
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
-- [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，持续更新
+- [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Video player based on MPlayer/mplayer2
-- [netdata](https://github.com/netdata/netdata) - Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
+- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
 
 ## C# # 
 
@@ -61,7 +61,7 @@
 
 ## C++ 
 
-- [envoy](https://github.com/envoyproxy/envoy) - C++ front/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
@@ -69,7 +69,7 @@
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
-- [rust-bindgen](https://github.com/rust-lang-nursery/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
+- [rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -78,7 +78,7 @@
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers.
 - [RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
-- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [thrift](https://github.com/apache/thrift) - Apache Thrift
 
@@ -89,9 +89,8 @@
 ## CSS 
 
 - [Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
-- [NiceFish](https://github.com/damoqiongqiu/NiceFish) - NiceFish（美人鱼）是一个系列教学项目，全面示范了Angular在浏览器、移动端、Electron环境中的用法。
-- [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - The blog theme you may fall in love with, coming to Hexo.
-- [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+- [NiceFish](https://github.com/damoqiongqiu/NiceFish) - NiceFish（美人鱼） 是一个系列项目，目标是示范前后端分离的开发模式:前端浏览器、移动端、Electron 环境中的各种开发模式；后端有两个版本：SpringBoot 版本和 SpringCloud 版本。
+- [the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [mobistore](https://github.com/aaronchen2k/mobistore) - eCommerce Fashion Store
 - [google-java-styleguide](https://github.com/codeset/google-java-styleguide) - Google Java代码风格规范 (中文版)
@@ -101,12 +100,17 @@
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
+## Dockerfile 
+
+- [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
+
 ## Gherkin 
 
 - [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
+- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [GoQuiet](https://github.com/cbeuw/GoQuiet) - A shadowsocks plugin that obfuscates SS traffic and can defend against active probing
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -123,7 +127,7 @@
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 - [gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 - [gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
-- [go-torch](https://github.com/uber/go-torch) - Stochastic flame graph profiler for Go programs
+- [go-torch](https://github.com/uber-archive/go-torch) - Stochastic flame graph profiler for Go programs
 - [deepcopier](https://github.com/ulule/deepcopier) - simple struct copying for golang
 - [proxypool](https://github.com/henson/proxypool) - Golang实现的IP代理池
 - [vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -138,7 +142,7 @@
 - [logrus_mate](https://github.com/gogap/logrus_mate) - tool for logrus, let it easy to use
 - [mmake](https://github.com/tj/mmake) - Modern Make
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
+- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Next-generation Shadowsocks in Go
 - [goxc](https://github.com/laher/goxc) - a build tool for Go, with a focus on cross-compiling, packaging and deployment
@@ -147,7 +151,7 @@
 - [go](https://github.com/golang/go) - The Go programming language
 - [smashcast](https://github.com/toby3d/smashcast) - [DISCONTINUED] A simple library on Go for work with smashcast API streaming service
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go
+- [google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [kingshard](https://github.com/flike/kingshard) - A high-performance MySQL proxy
 - [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -166,7 +170,7 @@
 - [gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [anaconda](https://github.com/ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
-- [google-cloud-go](https://github.com/GoogleCloudPlatform/google-cloud-go) - Google Cloud Client Libraries for Go
+- [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [hprose-golang](https://github.com/hprose/hprose-golang) - Hprose is a cross-language RPC. This project is Hprose 2.0 for Golang.
 - [harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -186,7 +190,7 @@
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [iris](https://github.com/kataras/iris) - The fastest backend community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Can your favourite web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2
+- [iris](https://github.com/kataras/iris) - Iris is the fastest community-driven web framework on (THIS) Earth. HTTP/2, MVC and more. Unbeatable free support for everyone. Can your old-fashioned web framework do that? 👉 http://bit.ly/iriscandothat1 or even http://bit.ly/iriscandothat2
 - [macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -228,22 +232,23 @@
 - [ServiceWorker](https://github.com/w3c/ServiceWorker) - The Service Worker Specification https://w3c.github.io/ServiceWorker/
 - [portainer](https://github.com/portainer/portainer) - Simple management UI for Docker
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [awesome-angular](https://github.com/gdi2290/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @TipeIO
+- [awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [angular-cn](https://github.com/angular/angular-cn) - Chinese localization of angular.io
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
 
 ## Java 
 
+- [grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [spring-reactive-sample](https://github.com/hantsy/spring-reactive-sample) - Spring 5 Reactive playground
-- [sharding-sphere](https://github.com/sharding-sphere/sharding-sphere) - Distributed database middleware
+- [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) - Distributed database middleware
 - [graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 - [tutorials](https://github.com/eugenp/tutorials) - The "REST With Spring" Course:
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
-- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. State of the Art Redis client
+- [redisson](https://github.com/redisson/redisson) - Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate) on top of Redis server. State of the Art Redis Java client
 - [disconf](https://github.com/knightliao/disconf) - Distributed Configuration Management Platform(分布式配置管理平台)
 - [spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
@@ -255,10 +260,11 @@
 - [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 - [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin) - Maven plugin to find duplicate classes or resources
 - [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
-- [redis-replicator](https://github.com/leonchen83/redis-replicator) - Redis replication tool. support sync, psync, psync2. can parse rdb, aof, mixed rdb and aof files. support redis-5.0-rc5
+- [redis-replicator](https://github.com/leonchen83/redis-replicator) - Redis replication tool. support sync, psync, psync2. can parse rdb, aof, mixed rdb and aof files. support redis-5.0
 - [vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
+- [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
-- [PiggyMetrics](https://github.com/sqshq/PiggyMetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
+- [piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
 - [genie](https://github.com/Netflix/genie) - Distributed Big Data Orchestration Service
 - [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix) - Integration with Netflix OSS components
 - [spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
@@ -284,13 +290,14 @@
 - [http-request](https://github.com/kevinsawicki/http-request) - Java HTTP Request Library
 - [JGroups](https://github.com/belaban/JGroups) - The JGroups project
 - [j360-cloud-all](https://github.com/xuminwlt/j360-cloud-all) - spring cloud独立功能介绍和demo 分布式配置服务器、客户端、服务发现、负载均衡、断路器Hytrix
+- [cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [opsu](https://github.com/itdelatrisu/opsu) - opsu! ~ an open-source osu! client
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [zkclient](https://github.com/sgroschupf/zkclient) - a zookeeper client, that makes life a little easier.
-- [fastjson](https://github.com/alibaba/fastjson) - :bullettrain_side: A fast JSON parser/generator for Java
+- [fastjson](https://github.com/alibaba/fastjson) - :bullettrain_side: A fast JSON parser/generator for Java. (Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by fastjson )
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
-- [druid](https://github.com/alibaba/druid) - :hotsprings: 为监控而生的数据库连接池！阿里云DRDS(https://www.aliyun.com/product/drds )、阿里巴巴TDDL 连接池powered by Druid
+- [druid](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。阿里云Data Lake Analytics(https://www.aliyun.com/product/datalakeanalytics )、DRDS、TDDL 连接池powered by Druid
 - [uncode-schedule](https://github.com/uncodecn/uncode-schedule) - 基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。
 
 ## JavaScript 
@@ -299,7 +306,7 @@
 - [ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [g2](https://github.com/antvis/g2) - The Grammar of Graphics in JavaScript
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
@@ -314,16 +321,17 @@
 - [docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
 - [react-360](https://github.com/facebook/react-360) - Create amazing 360 and VR content using React
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM for Node.js
 - [swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
-- [bilibili-helper](https://github.com/zacyu/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
+- [bilibili-helper](https://github.com/bilibili-helper/bilibili-helper) - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、去广告、推送通知并进行一些快捷操作
 - [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) - 这是一个用来查看GitHub最受欢迎与最热项目的App,它基于React Native支持Android和iOS双平台。#适配RN最新版在这里☞#
 - [asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
-- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
-- [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
+- [flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - Open Source application generator for creating Spring Boot + Angular/React projects in seconds!
 - [code-to-image](https://github.com/akira-cn/code-to-image) - Convert blocks of code to a highlighted jpeg base64 image.
@@ -331,14 +339,13 @@
 - [photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
 - [docker-registry2-ui](https://github.com/wangxufire/docker-registry2-ui) - docker-registry2-ui
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
-- [angular-starter](https://github.com/gdi2290/angular-starter) - :tada: An Angular Starter kit featuring Angular (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @TipeIO
+- [angular-starter](https://github.com/PatrickJS/angular-starter) - :tada: An Angular Starter kit featuring Angular (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
-- [cat](https://github.com/dianping/cat) - Central Application Tracking
 - [react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
-- [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind plot.ly and Dash
+- [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [nodejs](https://github.com/narayand4/nodejs) - Node js examples for beginners.
 - [gas](https://github.com/featen/gas) - Golang + AngularJS + Sqlite
 - [generator-angular-go-martini](https://github.com/rayokota/generator-angular-go-martini) - Yeoman generator for AngularJS + Go + Martini
@@ -372,6 +379,7 @@
 
 ## Objective-C 
 
+- [mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: Plugin manager for macOS
 - [magnetX](https://github.com/youusername/magnetX) - 资源搜索型软件 macOS OSX magnet
 - [squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
@@ -383,25 +391,25 @@
 
 ## Others 
 
+- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Computer Science Learning Notes
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识
 - [samplecode](https://github.com/kubeguide/samplecode) - 
+- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://coding.net/u/scaffrey/p/hosts/git
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-- [Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - 📚 A public list of APIs from round the web.
-- [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
+- [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则，Telegram频道订阅地址
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [raft-zh_cn](https://github.com/maemual/raft-zh_cn) - Raft一致性算法论文的中文翻译
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R) - Next Generation of ShadowsocksX https://github.com/shadowsocks/shadowsocks-iOS
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 workflows that will rock your world
-- [reactor](https://github.com/reactor/reactor) - Reactor BOM and legacy (2.x, 1.x)
+- [reactor](https://github.com/reactor/reactor) - Reactor Bill Of Material (tracking reactor-core, reactor-netty and more)
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [shipyard](https://github.com/shipyard/shipyard) - Composable Docker Management
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
@@ -409,7 +417,6 @@
 
 ## PHP 
 
-- [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [php-framework-benchmark](https://github.com/kenjis/php-framework-benchmark) - PHP Framework Benchmark
 - [Hateoas](https://github.com/willdurand/Hateoas) - A PHP library to support implementing representations for HATEOAS REST web services.
 
@@ -420,23 +427,19 @@
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [Conf-for-Surge-Shadowrocket](https://github.com/XinSSS/Conf-for-Surge-Shadowrocket) - Surge Shadowrocket conf
 - [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 175 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, and Terminator)
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, and MobaXterm)
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [shadowsocks-analysis](https://github.com/lixingcong/shadowsocks-analysis) - Help you understand how shadowsocks works.
-- [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。（少数派、Appinn、Mac玩儿法 推荐）[已停止更新，请慎用]
-- [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial) - TensorFlow & Deep Learning Tutorial
+- [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。[已停止更新，请慎用。]
+- [TensorFlow-and-DeepLearning-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-and-DeepLearning-Tutorial) - A TensorFlow & Deep Learning online course I taught in 2016
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 - [redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [bcloud](https://github.com/XuShaohua/bcloud) - 百度网盘的linux桌面客户端
 - [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
-
-## Rascal 
-
-- [hosts](https://github.com/googlehosts/hosts) - 镜像：https://coding.net/u/scaffrey/p/hosts/git
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 
 ## Ruby 
 
@@ -457,14 +460,15 @@
 
 ## Shell 
 
+- [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [libev](https://github.com/enki/libev) - Full-featured high-performance event loop loosely modelled after libevent
 - [gimme](https://github.com/travis-ci/gimme) - Install go, yay!
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
-- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [gnome-catgen](https://github.com/prurigro/gnome-catgen) - A Gnome 3 application-overview folder configuration tool
 
@@ -474,7 +478,7 @@
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.
 - [SimulateLocation](https://github.com/RockerHX/SimulateLocation) - SimulateLocation
 - [kawa](https://github.com/utatti/kawa) - A better input source switcher for OS X
-- [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
+- [iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [Carthage](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Lyrics for iTunes, Spotify, Vox and Audirvana Plus.
@@ -483,7 +487,7 @@
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
 - [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。QQ交流群 32958950 申请请注明开发经验
 - [Potatso](https://github.com/haxpor/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework.
-- [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
+- [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code in Swift.
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop.
 - [Twidere-iOS](https://github.com/TwidereProject/Twidere-iOS) - Twidere for iOS
@@ -492,21 +496,22 @@
 
 ## TypeScript 
 
-- [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, iOS and macOS.
+- [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 - [outline-shadowsocksconfig](https://github.com/Jigsaw-Code/outline-shadowsocksconfig) - Serialize Shadowsocks configuration data to and from SIP002 and legacy URI formats.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴
-- [chromeless](https://github.com/prisma/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
+- [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
-- [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language
 - [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced) - Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux
 - [vscode-go](https://github.com/Microsoft/vscode-go) - An extension for VS Code which provides support for the Go language.
-- [material2](https://github.com/angular/material2) - Material Design components for Angular
+- [material2](https://github.com/angular/material2) - Component infrastructure and Material Design components for Angular
 - [angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 6+, Bootstrap 4 (previously known as ng2-admin)
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin)
 - [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2+ apps
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
