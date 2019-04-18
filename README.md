@@ -352,7 +352,7 @@
 
 ## Jupyter Notebook 
 
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 
 ## Kotlin 
 
@@ -391,7 +391,7 @@
 
 ## Others 
 
-- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
 - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
@@ -400,6 +400,7 @@
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://coding.net/u/scaffrey/p/hosts/git
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
+- [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [ss-panel](https://github.com/orvice/ss-panel) - rm
 - [travis-ci](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects.
 - [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则，Telegram频道订阅地址
@@ -427,7 +428,6 @@
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [Conf-for-Surge-Shadowrocket](https://github.com/XinSSS/Conf-for-Surge-Shadowrocket) - Surge Shadowrocket conf
 - [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, and MobaXterm)
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python
 - [shadowsocks-analysis](https://github.com/lixingcong/shadowsocks-analysis) - Help you understand how shadowsocks works.
@@ -448,6 +448,7 @@
 
 ## Rust 
 
+- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
 - [futures-await](https://github.com/alexcrichton/futures-await) - 
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -461,6 +462,7 @@
 ## Shell 
 
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 200 terminal color schemes/themes for iTerm/iTerm2 (with ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, and MobaXterm)
 - [libev](https://github.com/enki/libev) - Full-featured high-performance event loop loosely modelled after libevent
 - [gimme](https://github.com/travis-ci/gimme) - Install go, yay!
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
@@ -485,9 +487,9 @@
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [logkit](https://github.com/logkit/logkit) - An efficient logging library for OS X, iOS, watchOS, and tvOS – written in Swift. Log to console, file, HTTP service, or your own endpoint. Simple to get started, but smartly customizable.
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
-- [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。QQ交流群 32958950 申请请注明开发经验
+- [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
 - [Potatso](https://github.com/haxpor/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework.
-- [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate quick response code in Swift.
+- [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop.
 - [Twidere-iOS](https://github.com/TwidereProject/Twidere-iOS) - Twidere for iOS
@@ -499,7 +501,6 @@
 - [outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
 - [outline-shadowsocksconfig](https://github.com/Jigsaw-Code/outline-shadowsocksconfig) - Serialize Shadowsocks configuration data to and from SIP002 and legacy URI formats.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴
-- [language-server-protocol](https://github.com/Microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
