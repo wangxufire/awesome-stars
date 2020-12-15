@@ -486,8 +486,6 @@
 ## Shell 
 
 - [debugger-action](https://github.com/P3TERX/debugger-action) - Interactive debug session for GitHub Actions
-- [jd-scripts-docker](https://github.com/chinnkarahoi/jd-scripts-docker) - 京东薅羊毛脚本，自动签到，做任务等docker一键启动。有使用上的问题可以加qq群644989387交流。
-- [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
