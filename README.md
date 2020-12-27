@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -313,6 +314,7 @@
 
 ## JavaScript 
 
+- [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [QuantumultX](https://github.com/w37fhy/QuantumultX) - 同步和更新大佬脚本库，更新懒人配置
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
@@ -349,7 +351,6 @@
 - [code-to-image](https://github.com/akira-cn/code-to-image) - Convert blocks of code to a highlighted jpeg base64 image.
 - [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
 - [photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
-- [docker-registry2-ui](https://github.com/wangxufire/docker-registry2-ui) - docker-registry2-ui
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [angular-starter](https://github.com/PatrickJS/angular-starter) - Angular Starter
 - [generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
@@ -404,7 +405,7 @@
 
 ## Others 
 
-- [jd_scripts](https://github.com/lxk0301/jd_scripts) - 京东薅羊毛脚本
+- [jd_scripts](https://github.com/lxk0301/jd_scripts) - 基于JavaScript的京东薅羊毛工具
 - [uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
 - [guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [awesome-vpn](https://github.com/udpsec/awesome-vpn) - 科学上网的有趣项目集锦，欢迎大家pr自己喜欢的项目到这里。
@@ -474,7 +475,7 @@
 ## Rust 
 
 - [trojan-r](https://github.com/p4gefau1t/trojan-r) - 轻量高效的 Trojan 代理，使用 Rust 实现
-- [vector](https://github.com/timberio/vector) - A high-performance, end-to-end observability data platform.
+- [vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
 - [futures-await](https://github.com/alexcrichton/futures-await) - 
