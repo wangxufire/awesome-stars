@@ -45,7 +45,7 @@
 - [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [insert_dylib](https://github.com/Tyilo/insert_dylib) - Command line utility for inserting a dylib load command into a Mach-O binary
-- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug fix only libev port of shadowsocks. Future development moved to shadowsocks-rust
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕(源码学习交流QQ群：568892619)
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
@@ -65,10 +65,11 @@
 
 ## C++ 
 
+- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (『飞桨』多平台高性能深度学习预测引擎）
-- [envoy](https://github.com/envoyproxy/envoy) - **ATTENTION: Holiday vacation Dec-23 - Jan-4. Responses delayed.** Cloud-native high-performance edge/middle/service proxy
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
@@ -115,6 +116,7 @@
 
 ## Go 
 
+- [dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
@@ -273,7 +275,7 @@
 - [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 - [duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin) - Maven plugin to find duplicate classes or resources
 - [zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
-- [redis-replicator](https://github.com/leonchen83/redis-replicator) - Redis replication tool. support sync, psync, psync2. can parse rdb, aof, mixed rdb and aof files. support redis-6.0
+- [redis-replicator](https://github.com/leonchen83/redis-replicator) - Redis replication tool. support sync, psync, psync2. can parse rdb, aof, mixed rdb and aof files. support redis-6.2
 - [vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
@@ -309,11 +311,12 @@
 - [zkclient](https://github.com/sgroschupf/zkclient) - a zookeeper client, that makes life a little easier.
 - [fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
-- [druid](https://github.com/alibaba/druid) - 阿里巴巴计算平台事业部出品，为监控而生的数据库连接池
+- [druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [uncode-schedule](https://github.com/uncodecn/uncode-schedule) - 基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。
 
 ## JavaScript 
 
+- [Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) - 天猫超市茅台抢票功能
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [QuantumultX](https://github.com/w37fhy/QuantumultX) - 同步和更新大佬脚本库，更新懒人配置
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -493,7 +496,6 @@
 
 ## Shell 
 
-- [debugger-action](https://github.com/P3TERX/debugger-action) - Interactive debug session for GitHub Actions
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
