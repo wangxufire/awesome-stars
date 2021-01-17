@@ -317,6 +317,7 @@
 
 ## JavaScript 
 
+- [live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [jd_scripts](https://github.com/LXK9301/jd_scripts) - 
 - [Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) - 天猫超市茅台抢票功能
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
