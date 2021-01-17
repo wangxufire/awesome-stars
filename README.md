@@ -108,6 +108,7 @@
 
 ## Dockerfile 
 
+- [docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 
 ## Gherkin 
@@ -316,6 +317,7 @@
 
 ## JavaScript 
 
+- [jd_scripts](https://github.com/LXK9301/jd_scripts) - 
 - [Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) - 天猫超市茅台抢票功能
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [QuantumultX](https://github.com/w37fhy/QuantumultX) - 同步和更新大佬脚本库，更新懒人配置
