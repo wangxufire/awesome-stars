@@ -12,7 +12,6 @@
   - [CSS](#css)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
-  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -22,6 +21,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Mercury](#mercury)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows
@@ -111,12 +112,9 @@
 - [docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [angular-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack
 
-## Gherkin 
-
-- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
-
 ## Go 
 
+- [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser
@@ -253,6 +251,7 @@
 
 ## Java 
 
+- [oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [springfox](https://github.com/springfox/springfox) - Automated JSON API documentation for API's built with Spring
 - [r2dbc-client](https://github.com/r2dbc/r2dbc-client) - Reactive Relational Database Connectivity
@@ -262,7 +261,7 @@
 - [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [spring-reactive-sample](https://github.com/hantsy/spring-reactive-sample) - Spring 5 Reactive playground
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [shardingsphere](https://github.com/apache/shardingsphere) - Distributed database middleware
+- [shardingsphere](https://github.com/apache/shardingsphere) - Distributed Database Ecosphere
 - [graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 - [tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
@@ -400,6 +399,10 @@
 - [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 - [zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
+## Mercury 
+
+- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
 ## Objective-C 
 
 - [mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: Plugin manager for macOS
@@ -408,7 +411,6 @@
 - [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开
 - [HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.
-- [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [aria2gui](https://github.com/yangshun1029/aria2gui) - Aria2GUI for macOS
 - [DanDanPlayForMac](https://github.com/sunsx9316/DanDanPlayForMac) - 弹弹play mac版
 
@@ -497,13 +499,15 @@
 
 - [snowflake](https://github.com/twitter-archive/snowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
-- [linkerd](https://github.com/linkerd/linkerd) - A service mesh for Kubernetes and beyond. Main repo for Linkerd 1.x.
+- [linkerd](https://github.com/linkerd/linkerd) - Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
 
 ## Shell 
 
+- [docker_ttnode](https://github.com/ericwang2006/docker_ttnode) - 甜糖星愿
 - [ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+- [sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 230 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [libev](https://github.com/enki/libev) - Full-featured high-performance event loop loosely modelled after libevent
@@ -513,7 +517,7 @@
 - [theme-budspencer](https://github.com/oh-my-fish/theme-budspencer) - A theme for nerds, makes fish even more powerful. It's equipped with a hell of a lot of nice functions and key bindings to speed up your workflow.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [gnome-catgen](https://github.com/prurigro/gnome-catgen) - A Gnome 3 application-overview folder configuration tool
 
@@ -542,6 +546,7 @@
 
 ## TypeScript 
 
+- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
 - [setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
@@ -558,7 +563,6 @@
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced) - Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more.
 - [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux
@@ -579,6 +583,7 @@
 
 ## VimL 
 
+- [spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [autoconfig-mac-vimrc](https://github.com/barretlee/autoconfig-mac-vimrc) - autoconfig mac vimrc with bundle
 
 ## Vue 
