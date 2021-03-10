@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
@@ -377,6 +378,7 @@
 
 ## Kotlin 
 
+- [compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [dgs-framework](https://github.com/Netflix/dgs-framework) - 
 - [jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
 - [ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
@@ -547,6 +549,7 @@
 
 ## TypeScript 
 
+- [release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
