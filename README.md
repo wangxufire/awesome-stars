@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -489,7 +490,7 @@
 ## Rust 
 
 - [trojan-r](https://github.com/p4gefau1t/trojan-r) - 轻量高效的 Trojan 代理，使用 Rust 实现
-- [vector](https://github.com/timberio/vector) - A high-performance observability data pipeline.
+- [vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
 - [futures-await](https://github.com/alexcrichton/futures-await) - 
@@ -506,6 +507,7 @@
 
 ## Shell 
 
+- [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [docker_ttnode](https://github.com/ericwang2006/docker_ttnode) - 甜糖星愿
 - [ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
