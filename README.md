@@ -254,6 +254,7 @@
 
 ## Java 
 
+- [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [springfox](https://github.com/springfox/springfox) - Automated JSON API documentation for API's built with Spring
@@ -322,6 +323,8 @@
 
 ## JavaScript 
 
+- [thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
+- [amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 - [jd_scripts](https://github.com/LXK9301/jd_scripts) - 
 - [Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) - 天猫超市茅台抢票功能
@@ -594,6 +597,7 @@
 
 ## Vue 
 
+- [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 
 
