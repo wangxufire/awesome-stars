@@ -22,6 +22,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Mercury](#mercury)
+  - [Nim](#nim)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -254,6 +255,7 @@
 
 ## Java 
 
+- [Luyten](https://github.com/deathmarine/Luyten) - An Open Source Java Decompiler Gui for Procyon
 - [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
@@ -411,6 +413,10 @@
 
 - [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 
+## Nim 
+
+- [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
+
 ## Objective-C 
 
 - [mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: Plugin manager for macOS
@@ -465,6 +471,7 @@
 
 ## Python 
 
+- [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
 - [py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
@@ -493,7 +500,7 @@
 ## Rust 
 
 - [trojan-r](https://github.com/p4gefau1t/trojan-r) - 轻量高效的 Trojan 代理，使用 Rust 实现
-- [vector](https://github.com/timberio/vector) - High-performance, high-reliability observability data pipeline.
+- [vector](https://github.com/timberio/vector) - A high-performance, high-reliability observability data pipeline.
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
 - [futures-await](https://github.com/alexcrichton/futures-await) - 
@@ -510,6 +517,8 @@
 
 ## Shell 
 
+- [xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
+- [create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
 - [docker_ttnode](https://github.com/ericwang2006/docker_ttnode) - 甜糖星愿
 - [ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
