@@ -67,6 +67,7 @@
 
 ## C++ 
 
+- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [TenDBCluster-TSpider](https://github.com/Tencent/TenDBCluster-TSpider) - TSpider is the proxy node of TenDB Cluster.
 - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -118,6 +119,7 @@
 
 ## Go 
 
+- [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [mix](https://github.com/mix-go/mix) - Standard Tooling for Go Fast Development / Go 快速开发标准工具
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
@@ -458,6 +460,9 @@
 
 ## Others 
 
+- [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+- [secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
+- [leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [3y](https://github.com/ZhongFuCheng3y/3y) - :notebook:从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
 - [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
