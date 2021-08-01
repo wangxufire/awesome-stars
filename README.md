@@ -50,6 +50,7 @@
 - [insert_dylib](https://github.com/Tyilo/insert_dylib) - Command line utility for inserting a dylib load command into a Mach-O binary
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
+- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
 - [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
@@ -122,12 +123,14 @@
 
 ## Go 
 
+- [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+- [fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
 - [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [mix](https://github.com/mix-go/mix) - Standard Tooling for Go Fast Development / Go 快速开发标准工具
+- [mix](https://github.com/mix-go/mix) - ✨ Standard Toolkit for Go fast development / Go 快速开发标准工具包
 - [casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [ent](https://github.com/ent/ent) - An entity framework for Go
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
@@ -142,7 +145,7 @@
 - [dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [bark-server](https://github.com/Finb/bark-server) - Backend of Bark
-- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
+- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
@@ -177,7 +180,6 @@
 - [logrus_mate](https://github.com/gogap/logrus_mate) - tool for logrus, let it easy to use
 - [mmake](https://github.com/tj/mmake) - Modern Make
 - [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [glide](https://github.com/Masterminds/glide) - Package Management for Golang
 - [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 - [goxc](https://github.com/laher/goxc) - a build tool for Go, with a focus on cross-compiling, packaging and deployment
@@ -214,7 +216,7 @@
 - [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [queue](https://github.com/go-on/queue) - Streamlined error handling and piping through a queue of go functions
 - [ffjson](https://github.com/pquerna/ffjson) - faster JSON serialization for Go
-- [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
+- [jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [goconfig](https://github.com/unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
@@ -273,6 +275,8 @@
 
 ## Java 
 
+- [screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
+- [pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [loom](https://github.com/openjdk/loom) - https://openjdk.java.net/projects/loom/
 - [valhalla](https://github.com/openjdk/valhalla) - https://openjdk.java.net/projects/valhalla
@@ -335,7 +339,6 @@
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [google-api-java-client](https://github.com/googleapis/google-api-java-client) - Google APIs Client Library for Java
 - [spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
-- [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - INACTIVE: A maven plugin for Docker
@@ -357,6 +360,7 @@
 
 ## JavaScript 
 
+- [iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [zx](https://github.com/google/zx) - A tool for writing better scripts
 - [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
@@ -428,6 +432,7 @@
 - [kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) - Module that adds support for serialization/deserialization of Kotlin (http://kotlinlang.org) classes and data classes.
 - [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
+- [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 ## Lua 
 
@@ -467,9 +472,11 @@
 
 ## Others 
 
+- [yes](https://github.com/yessimida/yes) - 追求有深度的后端技术文章，知其然知其所以然
+- [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-- [leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+- [leetcode-master](https://github.com/youngyangyang04/leetcode-master) - LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [3y](https://github.com/ZhongFuCheng3y/3y) - :notebook:从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
 - [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
@@ -543,6 +550,7 @@
 
 ## Rust 
 
+- [genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [trojan-r](https://github.com/p4gefau1t/trojan-r) - 轻量高效的 Trojan 代理，使用 Rust 实现
 - [vector](https://github.com/timberio/vector) - A high-performance, highly reliable, observability data pipeline.
@@ -588,7 +596,7 @@
 - [Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push customed notifications to your iPhone
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [SimulateLocation](https://github.com/RockerHX/SimulateLocation) - SimulateLocation
 - [kawa](https://github.com/hatashiro/kawa) - A macOS input source switcher with user-defined shortcuts.
 - [iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -609,7 +617,7 @@
 
 ## TypeScript 
 
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
+- [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
@@ -658,6 +666,7 @@
 
 ## Vue 
 
+- [sub-web](https://github.com/CareyWang/sub-web) - 
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 
