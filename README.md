@@ -384,7 +384,7 @@
 - [EmiyaTKK/Malio-Theme-for-SSPANEL](https://github.com/EmiyaTKK/Malio-Theme-for-SSPANEL) - Malio主题 - Malio分支是Malio原版(by editXY) - QuickEdition分支是极速版(无js加密 - By彩虹)
 - [sentsin/layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [thumbsup/thumbsup](https://github.com/thumbsup/thumbsup) - Generate static HTML photo / video galleries
 - [amazeui/amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
