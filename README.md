@@ -277,6 +277,7 @@
 
 ## HTML 
 
+- [marians/rebrow](https://github.com/marians/rebrow) - Web UI for redis database content
 - [dingdayu/jetbrians](https://github.com/dingdayu/jetbrians) - jetbrians IntelliJIDEALicenseServer dockerfile
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
