@@ -290,6 +290,7 @@
 
 ## Java 
 
+- [orika-mapper/orika](https://github.com/orika-mapper/orika) - Simpler, better and faster Java bean mapping framework
 - [zxbu/webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver) - 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
@@ -592,6 +593,8 @@
 
 ## Rust 
 
+- [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
+- [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -623,7 +626,6 @@
 - [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
-- [ericwang2006/docker_ttnode](https://github.com/ericwang2006/docker_ttnode) - 甜糖星愿
 - [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
