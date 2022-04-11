@@ -393,7 +393,7 @@
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht
 - [EmiyaTKK/Malio-Theme-for-SSPANEL](https://github.com/EmiyaTKK/Malio-Theme-for-SSPANEL) - Malio主题 - Malio分支是Malio原版(by editXY) - QuickEdition分支是极速版(无js加密 - By彩虹)
-- [sentsin/layui](https://github.com/sentsin/layui) - 一套开源的 Web UI 解决方案。采用自身传统的模块化规范，并遵循原生 HTML/CSS/JS 的开发方式，极易上手，拿来即用。非常适合网页界面的快速开发。
+- [layui/layui](https://github.com/layui/layui) - 一套开源的 Web UI 解决方案。采用自身传统的模块化规范，并遵循原生 HTML/CSS/JS 的开发方式，极易上手，拿来即用。非常适合网页界面的快速开发。
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
