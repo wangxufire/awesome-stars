@@ -297,6 +297,7 @@
 
 ## Java 
 
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [tianaiyouqing/tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha) - 滑块验证码实现
 - [longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j) - 🔥 强大的动态线程池，附带监控报警功能，内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function.
 - [orika-mapper/orika](https://github.com/orika-mapper/orika) - Simpler, better and faster Java bean mapping framework
@@ -656,7 +657,7 @@
 
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push customed notifications to your iPhone
+- [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
