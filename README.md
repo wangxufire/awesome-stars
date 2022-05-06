@@ -120,6 +120,7 @@
 
 ## Dart 
 
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - (R18+) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS。
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -519,7 +520,6 @@
 
 - [wangxufire/awesome-stars](https://github.com/wangxufire/awesome-stars) - Awesome List of my own!
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [iVoider/PlayCover](https://github.com/iVoider/PlayCover) - PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)
 - [0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document) - 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料
 - [yessimida/yes](https://github.com/yessimida/yes) - 追求有深度的后端技术文章，知其然知其所以然
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -670,6 +670,7 @@
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+- [iVoider/PlayCover](https://github.com/iVoider/PlayCover) - PlayCover is a project that allows you to sideload iOS apps on macOS (currently arm, Intel support will be tested)
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
