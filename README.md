@@ -143,7 +143,7 @@
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
-- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For The Go: int, string, array/slice, map, dump, convert/format, error, web/http, cli, OS/ENV, filesystem, system, test, time and more. Go 常用的一些工具函数，数字，字符串，数组，Map，文件，错误，时间日期，特殊处理，格式化，常用
+- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, string, array/slice, map, dump, convert/format, error, web/http, cli, OS/ENV, filesystem, system, test, time and more. Go 常用的一些工具函数，数字，字符串，数组，Map，文件，错误，时间日期，特殊处理，格式化，常用信息获取
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -189,6 +189,7 @@
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [go-gorp/gorp](https://github.com/go-gorp/gorp) - Go Relational Persistence - an ORM-ish library for Go
 - [uber-archive/go-torch](https://github.com/uber-archive/go-torch) - Stochastic flame graph profiler for Go programs
 - [ulule/deepcopier](https://github.com/ulule/deepcopier) - simple struct copying for golang
@@ -302,7 +303,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [tianaiyouqing/tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha) - 滑块验证码实现
-- [longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j) - 🔥 强大的动态线程池，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池、Apache RocketMQ 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
+- [longtai-cn/hippo4j](https://github.com/longtai-cn/hippo4j) - 🔥 强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池、Apache RocketMQ 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 - [orika-mapper/orika](https://github.com/orika-mapper/orika) - Simpler, better and faster Java bean mapping framework
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
@@ -428,7 +429,6 @@
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [shadowsocks/shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [kwk/docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [facebookarchive/react-360](https://github.com/facebookarchive/react-360) - Create amazing 360 and VR content using React
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
