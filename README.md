@@ -290,7 +290,6 @@
 
 - [marians/rebrow](https://github.com/marians/rebrow) - Web UI for redis database content
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -420,6 +419,7 @@
 - [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [google/WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [cute/SketchI18N](https://github.com/cute/SketchI18N) - Sketch Internationalization Plugin
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
