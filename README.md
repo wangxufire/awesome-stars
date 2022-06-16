@@ -609,6 +609,7 @@
 
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [zdennis/activerecord-import](https://github.com/zdennis/activerecord-import) - A library for bulk insertion of data into your database using ActiveRecord.
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [enml/blog](https://github.com/enml/blog) - a github pages blog
 
 ## Rust 
@@ -687,7 +688,6 @@
 - [Lax/Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
 - [haxpor/Potatso](https://github.com/haxpor/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework. ***This project is unmaintained, try taking a look at this fork https://github.com/shadowcoe
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 - [MichaelRow/Lyrics](https://github.com/MichaelRow/Lyrics) - Swift-based iTunes plug-in to display lyrics on the desktop.
 - [TwidereProject/Twidere-iOS](https://github.com/TwidereProject/Twidere-iOS) - Twidere for iOS
 - [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
