@@ -45,7 +45,7 @@
 
 ## C 
 
-- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF.
+- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports linux x86_64,linux Arm-arrch64, Android arm-aarch64.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. We
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
