@@ -701,7 +701,7 @@
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
 - [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
