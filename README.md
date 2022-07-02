@@ -119,7 +119,7 @@
 
 ## Dart 
 
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - (R18+) 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS。
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS。
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -742,7 +742,7 @@
 
 ## V 
 
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim script 
 
