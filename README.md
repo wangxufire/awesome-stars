@@ -119,7 +119,7 @@
 
 ## Dart 
 
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS。
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
