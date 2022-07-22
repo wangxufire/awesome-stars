@@ -251,7 +251,7 @@
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [bitly/go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ivpusic/neo](https://github.com/ivpusic/neo) - Go Web Framework
@@ -304,7 +304,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [tianaiyouqing/tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha) - 滑块验证码实现
-- [mabaiwan/hippo4j](https://github.com/mabaiwan/hippo4j) - 🔥 强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池；Apache RocketMQ、Dubbo、RabbitMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
+- [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 🔥 强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池；Apache RocketMQ、Dubbo、RabbitMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 - [orika-mapper/orika](https://github.com/orika-mapper/orika) - Simpler, better and faster Java bean mapping framework
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 - [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
