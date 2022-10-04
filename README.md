@@ -737,7 +737,7 @@
 - [angular/angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 - [auth0-blog/angular2-electron](https://github.com/auth0-blog/angular2-electron) - 
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-- [auth0/angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular 2+ apps
+- [auth0/angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 
