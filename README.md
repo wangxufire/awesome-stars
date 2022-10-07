@@ -391,7 +391,7 @@
 - [itdelatrisu/opsu](https://github.com/itdelatrisu/opsu) - opsu! ~ an open-source osu! client
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [sgroschupf/zkclient](https://github.com/sgroschupf/zkclient) - a zookeeper client, that makes life a little easier.
-- [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
+- [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [uncodecn/uncode-schedule](https://github.com/uncodecn/uncode-schedule) - 基于zookeeper+spring task的分布式任务调度组件，非常小巧，无需任何修改就可以使spring task具备分布式特性，确保所有任务在集群中不重复，不遗漏的执行。
