@@ -429,7 +429,7 @@
 - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [log4js-node/log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
 - [aadsm/JavaScript-ID3-Reader](https://github.com/aadsm/JavaScript-ID3-Reader) - ID3 tags reader in JavaScript (ID3v1, ID3v2 and AAC)
-- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [kwk/docker-registry-frontend](https://github.com/kwk/docker-registry-frontend) - Browse and modify your Docker registry in a browser.
