@@ -306,7 +306,7 @@
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [tianaiyouqing/tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha) - 滑块验证码实现
+- [tianaiyouqing/tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha) - 可能是java界最好的开源行为验证码  [滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码]
 - [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Alibaba Dubbo、RabbitMQ、RocketMQ、Polaris 、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 - [orika-mapper/orika](https://github.com/orika-mapper/orika) - Simpler, better and faster Java bean mapping framework
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
