@@ -307,7 +307,7 @@
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [tianaiyouqing/tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha) - 可能是java界最好的开源行为验证码  [滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码]
-- [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Alibaba Dubbo、RabbitMQ、RocketMQ、Polaris 、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
+- [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Dubbox、RabbitMQ、RocketMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 - [orika-mapper/orika](https://github.com/orika-mapper/orika) - Simpler, better and faster Java bean mapping framework
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 - [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
@@ -318,7 +318,7 @@
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native is now superseded by Spring Boot 3 official native support
 - [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) - https://openjdk.org/projects/panama
