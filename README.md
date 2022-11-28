@@ -514,7 +514,7 @@
 - [w0lfschild/mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: Plugin manager for macOS
 - [youusername/magnetX](https://github.com/youusername/magnetX) - 资源搜索型软件 macOS OSX magnet
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
-- [Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [maciekish/iReSign](https://github.com/maciekish/iReSign) - iReSign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. This tool is aimed at enterprises users, for enterprise deployment, whe
 - [NickYang29/aria2gui](https://github.com/NickYang29/aria2gui) - Aria2GUI for macOS
