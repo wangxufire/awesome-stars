@@ -304,6 +304,7 @@
 
 ## Java 
 
+- [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [apache/curator](https://github.com/apache/curator) - Apache Curator
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
