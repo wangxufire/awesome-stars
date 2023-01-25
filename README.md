@@ -223,7 +223,7 @@
 - [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [kelseyhightower/contributors](https://github.com/kelseyhightower/contributors) - Display GitHub contributors for a specific repo.
-- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
 - [juju/errors](https://github.com/juju/errors) - Common juju errors and functions to annotate errors.  Based on juju/errgo
 - [maprost/should](https://github.com/maprost/should) - lightwight test environment
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
