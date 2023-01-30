@@ -137,6 +137,7 @@
 
 ## Go 
 
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [brahma-adshonor/gohook](https://github.com/brahma-adshonor/gohook) - a nice library to hook golang function at runtime
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
