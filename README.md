@@ -321,7 +321,7 @@
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native is now superseded by Spring Boot 3 official native support
+- [spring-attic/spring-native](https://github.com/spring-attic/spring-native) - Spring Native is now superseded by Spring Boot 3 official native support
 - [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) - https://openjdk.org/projects/panama
