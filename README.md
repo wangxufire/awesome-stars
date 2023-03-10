@@ -527,6 +527,7 @@
 
 ## Others 
 
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [wangxufire/awesome-stars](https://github.com/wangxufire/awesome-stars) - Awesome List of my own!
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document) - 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料
