@@ -706,7 +706,7 @@
 ## TypeScript 
 
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
