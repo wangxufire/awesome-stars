@@ -306,6 +306,7 @@
 
 ## Java 
 
+- [dromara/forest](https://github.com/dromara/forest) - A high-level and lightweight HTTP client framework for Java. it makes sending HTTP requests in Java easier.
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [apache/curator](https://github.com/apache/curator) - Apache Curator
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
@@ -528,6 +529,7 @@
 
 ## Others 
 
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.5） 、TikTok（V29.5.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [wangxufire/awesome-stars](https://github.com/wangxufire/awesome-stars) - Awesome List of my own!
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
