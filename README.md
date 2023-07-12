@@ -281,7 +281,7 @@
 - [abbot/go-http-auth](https://github.com/abbot/go-http-auth) - Basic and Digest HTTP Authentication for golang http
 - [cihub/seelog](https://github.com/cihub/seelog) - Seelog is a native Go logging library that provides flexible asynchronous dispatching, filtering, and formatting.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
+- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
