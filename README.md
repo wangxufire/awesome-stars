@@ -394,7 +394,7 @@
 - [spotify/docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - INACTIVE: A maven plugin for Docker
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework
+- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job
 - [kevinsawicki/http-request](https://github.com/kevinsawicki/http-request) - Java HTTP Request Library
 - [belaban/JGroups](https://github.com/belaban/JGroups) - The JGroups project
 - [xuminwlt/j360-cloud-all](https://github.com/xuminwlt/j360-cloud-all) - spring cloud独立功能介绍和demo 分布式配置服务器、客户端、服务发现、负载均衡、断路器Hytrix
