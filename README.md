@@ -254,7 +254,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [unknwon/goconfig](https://github.com/unknwon/goconfig) - Package goconfig is a fully functional and comments-support configuration file (.ini) parser.
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [limetext/backend](https://github.com/limetext/backend) - Backend for LimeText
 - [gogap/logrus](https://github.com/gogap/logrus) - DEPRECATED, Please refer to gogap/logrus_mate
 - [satori/go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
