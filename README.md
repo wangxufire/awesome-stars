@@ -333,7 +333,7 @@
 - [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) - https://openjdk.org/projects/valhalla
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) - https://openjdk.org/projects/panama
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [braisdom/ObjectiveSql](https://github.com/braisdom/ObjectiveSql) - Writing SQL using Java syntax
 - [baidu/uid-generator](https://github.com/baidu/uid-generator) - UniqueID generator
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
