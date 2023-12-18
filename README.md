@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with Redis developed by Qihoo's infrastructure team.
 - [chxuan/cpp-utils](https://github.com/chxuan/cpp-utils) - :hibiscus: 一些C/C++常用封装例子
