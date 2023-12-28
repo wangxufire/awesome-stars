@@ -457,6 +457,7 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [LinusU/node-appdmg](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+- [23/resumable.js](https://github.com/23/resumable.js) - A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.
 - [akira-cn/code-to-image](https://github.com/akira-cn/code-to-image) - Convert blocks of code to a highlighted jpeg base64 image.
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [danjac/photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
