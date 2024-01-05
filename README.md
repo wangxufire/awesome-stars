@@ -318,7 +318,7 @@
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) - Spring Authorization Server
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [tianaiyouqing/tianai-captcha](https://github.com/tianaiyouqing/tianai-captcha) - 可能是java界最好的开源行为验证码  [滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码]
+- [dromara/tianai-captcha](https://github.com/dromara/tianai-captcha) - 可能是java界最好的开源行为验证码  [滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码]
 - [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 异步线程池框架，支持线程池动态变更&监控&报警，无需修改代码轻松引入。Asynchronous thread pool framework, support Thread Pool Dynamic Change & monitoring & Alarm, no need to modify the code easily introduced.
 - [orika-mapper/orika](https://github.com/orika-mapper/orika) - Simpler, better and faster Java bean mapping framework
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
