@@ -460,7 +460,7 @@
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 - [danjac/photoshare](https://github.com/danjac/photoshare) - Learning app for Go and React
 - [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
-- [PatrickJS/MFE-starter](https://github.com/PatrickJS/MFE-starter) - MFE Starter
+- [PatrickJS/PatrickJS-starter](https://github.com/PatrickJS/PatrickJS-starter) - MFE Starter
 - [diegonetto/generator-ionic](https://github.com/diegonetto/generator-ionic) - Build hybrid mobile apps using the Ionic Framework
 - [yipengmu/react-native-android-lession](https://github.com/yipengmu/react-native-android-lession) - mark react-native-android steps
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
