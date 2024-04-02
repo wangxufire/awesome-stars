@@ -369,7 +369,7 @@
 - [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [lets-blade/blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
-- [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.
+- [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
 - [basepom/duplicate-finder-maven-plugin](https://github.com/basepom/duplicate-finder-maven-plugin) - Maven plugin to find duplicate classes or resources
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [leonchen83/redis-replicator](https://github.com/leonchen83/redis-replicator) - Redis replication tool. support sync, psync, psync2. can parse rdb, aof, mixed rdb and aof files. support redis-7.2
