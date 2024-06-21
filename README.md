@@ -96,7 +96,7 @@
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [llvm-mirror/clang](https://github.com/llvm-mirror/clang) - Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project
 - [google-ar/WebARonTango](https://github.com/google-ar/WebARonTango) - A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top of WebVR built in Chromium.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
