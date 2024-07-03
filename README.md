@@ -302,7 +302,6 @@
 - [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) - Service Workers
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [shadowsocks/shadowsocks-org](https://github.com/shadowsocks/shadowsocks-org) - www.shadowsocks.org
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
@@ -645,6 +644,7 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [google/rerast](https://github.com/google/rerast) - A tool for transforming Rust code using rules
 - [alexcrichton/futures-await](https://github.com/alexcrichton/futures-await) - 
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 
 ## SCSS 
