@@ -355,6 +355,7 @@
 - [janino-compiler/janino](https://github.com/janino-compiler/janino) - Janino is a super-small, super-fast Java™ compiler.
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [hantsy/spring-reactive-sample](https://github.com/hantsy/spring-reactive-sample) - Spring 5/6 Reactive playground
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
@@ -547,7 +548,6 @@
 - [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
