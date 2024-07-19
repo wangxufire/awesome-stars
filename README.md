@@ -310,6 +310,7 @@
 
 ## Java 
 
+- [spring-projects-experimental/spring-boot-thin-launcher](https://github.com/spring-projects-experimental/spring-boot-thin-launcher) - Tools for building "thin" executable jars, with a focus on, but not exclusively for, Spring Boot
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [javers/javers](https://github.com/javers/javers) - JaVers - object auditing and diff framework for Java
 - [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework
