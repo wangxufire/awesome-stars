@@ -292,7 +292,7 @@
 
 ## Groovy 
 
-- [johnrengelman/shadow](https://github.com/johnrengelman/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
+- [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
 - [pledbrook/lazybones](https://github.com/pledbrook/lazybones) - A simple project creation tool that uses packaged project templates.
 
 ## HTML 
