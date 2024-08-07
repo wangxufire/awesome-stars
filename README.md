@@ -740,7 +740,7 @@
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [damoqiongqiu/NiceFish](https://github.com/damoqiongqiu/NiceFish) - 🚀🚀🚀NiceFish（美人鱼） 是一个系列项目，目标是示范前后端分离的开发+部署模式，包括: 浏览器环境、移动端环境、Electron 环境；后端有两个版本：SpringBoot 版本和 SpringCloud 版本。请不要吝惜你的⭐️ Star ⭐️，星星越多，动力越足。下一个版本会引入 Angular 最新的 signal 特性。
 - [ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
