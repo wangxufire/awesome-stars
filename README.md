@@ -418,7 +418,7 @@
 
 ## JavaScript 
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [duo001/evil.js](https://github.com/duo001/evil.js) - Use with caution
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
