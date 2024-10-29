@@ -651,7 +651,7 @@
 
 ## Scala 
 
-- [mesosphere/marathon](https://github.com/mesosphere/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
+- [d2iq-archive/marathon](https://github.com/d2iq-archive/marathon) - Deploy and manage containers (including Docker) on top of Apache Mesos at scale.
 - [linkerd/linkerd](https://github.com/linkerd/linkerd) - Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
 
 ## Shell 
