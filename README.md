@@ -363,7 +363,7 @@
 - [hantsy/spring-reactive-sample](https://github.com/hantsy/spring-reactive-sample) - Spring 5/6 Reactive playground
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
-- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
+- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [reactor/reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
 - [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis or Valkey based Java objects and services: Set, Multimap, SortedSet, Map, List, Q
