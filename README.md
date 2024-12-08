@@ -707,7 +707,7 @@
 
 ## TypeScript 
 
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes! [In Beta]
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
